@@ -58,8 +58,14 @@ def execute_query(query: str, params: dict = None):
 
 def sql_fetch_query(state:GraphState) -> Dict[str, Any]:
     logger.info("---SQL SEARCH---")
-    sql_query               = state["sql_query"]
-    sql_results             = execute_query(sql_query)
-
-    return {"sql_results": sql_results, "sql_query": sql_query}
+    sql_query = state["sql_query"]
+    tries = state.get("tries", 0)
+    
+    try:
+        sql_results = execute_query(sql_query)
+        # If successful, clear error
+        return {"sql_results": sql_results, "sql_query": sql_query, "error": None, "tries": tries}
+    except Exception as e:
+        logger.error(f"SQL Execution failed: {e}")
+        return {"sql_results": None, "sql_query": sql_query, "error": str(e), "tries": tries + 1}
 

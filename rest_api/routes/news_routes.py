@@ -26,7 +26,7 @@ def news_by_topic(
         else:
             human_query = f"News related to {ticker}"
 
-        res         = app.invoke({"question": human_query})
+        res         = app.invoke({"question": human_query, "ticker": ticker})
         return {
             "ticker": ticker,
             "topic": topic,

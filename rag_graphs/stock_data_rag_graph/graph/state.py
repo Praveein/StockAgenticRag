@@ -16,3 +16,5 @@ class GraphState(TypedDict):
     sql_query: str
     sql_results: str
     generation: str
+    error: str
+    tries: int

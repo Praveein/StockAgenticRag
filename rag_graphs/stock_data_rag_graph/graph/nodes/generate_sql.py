@@ -35,8 +35,18 @@ def normalize_sql(sql: str) -> str:
 
 def generate_sql(state:GraphState)->Dict[str, Any]:
     logger.info("---GENERATE SQL---")
-    question    = state['question']
-    generated_sql   = sql_generation_chain.invoke(question)
+    question = state['question']
+    error = state.get("error")
+    
+    if error:
+        logger.info(f"---RETRYING SQL GENERATION (Error: {error})---")
+        # Augment question with error context for self-correction
+        prompt_input = f"{question}\n\nPrevious SQL query failed with error: {error}. Please correct the SQL query."
+    else:
+        prompt_input = question
+        
+    generated_sql = sql_generation_chain.invoke(prompt_input)
     clean_sql_query = clean_sql_string(generated_sql)
-    normalized_sql  = normalize_sql(clean_sql_query)
+    normalized_sql = normalize_sql(clean_sql_query)
+    
     return {"sql_query": normalized_sql, "question": question}

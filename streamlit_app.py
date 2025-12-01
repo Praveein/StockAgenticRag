@@ -26,7 +26,7 @@ if page == "Stock Data":
         st.caption("Try Indian stocks like: RELIANCE, TCS, INFY, HDFCBANK")
     
     # Tabs for different stock operations
-    tab1, tab2 = st.tabs(["Price Statistics", "Charts"])
+    tab1, tab2, tab3 = st.tabs(["Price Statistics", "Charts", "Raw Data"])
     
     with tab1:
         st.subheader("Price Statistics")
@@ -121,6 +121,31 @@ if page == "Stock Data":
                         else:
                             st.write(data)
                             
+                    else:
+                        st.error(f"Error: {response.status_code} - {response.text}")
+                except Exception as e:
+                    st.error(f"Connection Error: {e}")
+
+    with tab3:
+        st.subheader("Raw Historical Data")
+        
+        raw_duration = st.selectbox("Duration (days)", ["7", "14", "30", "90"], key="raw_duration")
+        
+        if st.button("Fetch Data"):
+            with st.spinner("Fetching raw data..."):
+                try:
+                    response = requests.get(
+                        f"{API_BASE_URL}/stock/{ticker}/history",
+                        params={"duration": raw_duration}
+                    )
+                    
+                    if response.status_code == 200:
+                        data = response.json()
+                        if data:
+                            df = pd.DataFrame(data)
+                            st.dataframe(df, use_container_width=True)
+                        else:
+                            st.warning("No data found.")
                     else:
                         st.error(f"Error: {response.status_code} - {response.text}")
                 except Exception as e:

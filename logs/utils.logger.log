@@ -1,1121 +1,714 @@
-2025-12-01 18:13:12,309 - utils.logger - INFO - Scraping data for INFY.NS...
-2025-12-01 18:13:12,703 - utils.logger - INFO - Data for INFY.NS successfully inserted into the database.
-2025-12-01 18:13:12,703 - utils.logger - INFO - Scraping data for ITC.NS...
-2025-12-01 18:13:12,868 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:12,870 - utils.logger - INFO - Scraping news for ticker: BHARTIARTL.NS
-2025-12-01 18:13:13,071 - utils.logger - INFO - Data for ITC.NS successfully inserted into the database.
-2025-12-01 18:13:13,071 - utils.logger - INFO - Scraping data for JSWSTEEL.NS...
-2025-12-01 18:13:13,447 - utils.logger - INFO - Data for JSWSTEEL.NS successfully inserted into the database.
-2025-12-01 18:13:13,447 - utils.logger - INFO - Scraping data for KOTAKBANK.NS...
-2025-12-01 18:13:13,808 - utils.logger - INFO - Data for KOTAKBANK.NS successfully inserted into the database.
-2025-12-01 18:13:13,808 - utils.logger - INFO - Scraping data for LT.NS...
-2025-12-01 18:13:14,166 - utils.logger - INFO - Data for LT.NS successfully inserted into the database.
-2025-12-01 18:13:14,166 - utils.logger - INFO - Scraping data for M&M.NS...
-2025-12-01 18:13:14,528 - utils.logger - INFO - Data for M&M.NS successfully inserted into the database.
-2025-12-01 18:13:14,528 - utils.logger - INFO - Scraping data for MARUTI.NS...
-2025-12-01 18:13:14,701 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:14,702 - utils.logger - INFO - Scraping news for ticker: BPCL.NS
-2025-12-01 18:13:14,880 - utils.logger - INFO - Data for MARUTI.NS successfully inserted into the database.
-2025-12-01 18:13:14,880 - utils.logger - INFO - Scraping data for NESTLEIND.NS...
-2025-12-01 18:13:15,236 - utils.logger - INFO - Data for NESTLEIND.NS successfully inserted into the database.
-2025-12-01 18:13:15,237 - utils.logger - INFO - Scraping data for NTPC.NS...
-2025-12-01 18:13:15,646 - utils.logger - INFO - Data for NTPC.NS successfully inserted into the database.
-2025-12-01 18:13:15,647 - utils.logger - INFO - Scraping data for ONGC.NS...
-2025-12-01 18:13:16,016 - utils.logger - INFO - Data for ONGC.NS successfully inserted into the database.
-2025-12-01 18:13:16,016 - utils.logger - INFO - Scraping data for POWERGRID.NS...
-2025-12-01 18:13:16,096 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:16,098 - utils.logger - INFO - Scraping news for ticker: BRITANNIA.NS
-2025-12-01 18:13:16,384 - utils.logger - INFO - Data for POWERGRID.NS successfully inserted into the database.
-2025-12-01 18:13:16,384 - utils.logger - INFO - Scraping data for RELIANCE.NS...
-2025-12-01 18:13:16,743 - utils.logger - INFO - Data for RELIANCE.NS successfully inserted into the database.
-2025-12-01 18:13:16,743 - utils.logger - INFO - Scraping data for SBILIFE.NS...
-2025-12-01 18:13:17,078 - utils.logger - INFO - Data for SBILIFE.NS successfully inserted into the database.
-2025-12-01 18:13:17,079 - utils.logger - INFO - Scraping data for SBIN.NS...
-2025-12-01 18:13:17,474 - utils.logger - INFO - Data for SBIN.NS successfully inserted into the database.
-2025-12-01 18:13:17,475 - utils.logger - INFO - Scraping data for SHREECEM.NS...
-2025-12-01 18:13:17,570 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:17,571 - utils.logger - INFO - Scraping news for ticker: CIPLA.NS
-2025-12-01 18:13:17,835 - utils.logger - INFO - Data for SHREECEM.NS successfully inserted into the database.
-2025-12-01 18:13:17,835 - utils.logger - INFO - Scraping data for SHRIRAMFIN.NS...
-2025-12-01 18:13:18,187 - utils.logger - INFO - Data for SHRIRAMFIN.NS successfully inserted into the database.
-2025-12-01 18:13:18,187 - utils.logger - INFO - Scraping data for SUNPHARMA.NS...
-2025-12-01 18:13:18,545 - utils.logger - INFO - Data for SUNPHARMA.NS successfully inserted into the database.
-2025-12-01 18:13:18,545 - utils.logger - INFO - Scraping data for TATACONSUM.NS...
-2025-12-01 18:13:18,898 - utils.logger - INFO - Data for TATACONSUM.NS successfully inserted into the database.
-2025-12-01 18:13:18,899 - utils.logger - INFO - Scraping data for TATAMOTORS.NS...
-2025-12-01 18:13:19,013 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:19,015 - utils.logger - INFO - Scraping news for ticker: COALINDIA.NS
-2025-12-01 18:13:19,277 - utils.logger - INFO - Data for TATAMOTORS.NS successfully inserted into the database.
-2025-12-01 18:13:19,277 - utils.logger - INFO - Scraping data for TATASTEEL.NS...
-2025-12-01 18:13:19,653 - utils.logger - INFO - Data for TATASTEEL.NS successfully inserted into the database.
-2025-12-01 18:13:19,654 - utils.logger - INFO - Scraping data for TCS.NS...
-2025-12-01 18:13:20,017 - utils.logger - INFO - Data for TCS.NS successfully inserted into the database.
-2025-12-01 18:13:20,018 - utils.logger - INFO - Scraping data for TECHM.NS...
-2025-12-01 18:13:20,364 - utils.logger - INFO - Data for TECHM.NS successfully inserted into the database.
-2025-12-01 18:13:20,365 - utils.logger - INFO - Scraping data for TITAN.NS...
-2025-12-01 18:13:20,723 - utils.logger - INFO - Data for TITAN.NS successfully inserted into the database.
-2025-12-01 18:13:20,724 - utils.logger - INFO - Scraping data for ULTRACEMCO.NS...
-2025-12-01 18:13:20,727 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:20,728 - utils.logger - INFO - Scraping news for ticker: DIVISLAB.NS
-2025-12-01 18:13:21,091 - utils.logger - INFO - Data for ULTRACEMCO.NS successfully inserted into the database.
-2025-12-01 18:13:21,091 - utils.logger - INFO - Scraping data for WIPRO.NS...
-2025-12-01 18:13:21,446 - utils.logger - INFO - Data for WIPRO.NS successfully inserted into the database.
-2025-12-01 18:13:21,965 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:21,966 - utils.logger - INFO - Scraping news for ticker: DRREDDY.NS
-2025-12-01 18:13:23,229 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:23,230 - utils.logger - INFO - Scraping news for ticker: EICHERMOT.NS
-2025-12-01 18:13:24,478 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:24,479 - utils.logger - INFO - Scraping news for ticker: GRASIM.NS
-2025-12-01 18:13:25,805 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:25,807 - utils.logger - INFO - Scraping news for ticker: HCLTECH.NS
-2025-12-01 18:13:27,255 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:27,257 - utils.logger - INFO - Scraping news for ticker: HDFCBANK.NS
-2025-12-01 18:13:28,689 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:28,690 - utils.logger - INFO - Scraping news for ticker: HDFCLIFE.NS
-2025-12-01 18:13:29,970 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:29,971 - utils.logger - INFO - Scraping news for ticker: HEROMOTOCO.NS
-2025-12-01 18:13:31,203 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:31,204 - utils.logger - INFO - Scraping news for ticker: HINDALCO.NS
-2025-12-01 18:13:32,504 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:32,507 - utils.logger - INFO - Scraping news for ticker: HINDUNILVR.NS
-2025-12-01 18:13:33,807 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:33,808 - utils.logger - INFO - Scraping news for ticker: ICICIBANK.NS
-2025-12-01 18:13:35,680 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:35,683 - utils.logger - INFO - Scraping news for ticker: INDUSINDBK.NS
-2025-12-01 18:13:36,989 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:36,991 - utils.logger - INFO - Scraping news for ticker: INFY.NS
-2025-12-01 18:13:38,367 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:38,369 - utils.logger - INFO - Scraping news for ticker: ITC.NS
-2025-12-01 18:13:40,000 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:40,001 - utils.logger - INFO - Scraping news for ticker: JSWSTEEL.NS
-2025-12-01 18:13:41,348 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:41,349 - utils.logger - INFO - Scraping news for ticker: KOTAKBANK.NS
-2025-12-01 18:13:42,863 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:42,865 - utils.logger - INFO - Scraping news for ticker: LT.NS
-2025-12-01 18:13:44,678 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:44,679 - utils.logger - INFO - Scraping news for ticker: M&M.NS
-2025-12-01 18:13:46,614 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:46,615 - utils.logger - INFO - Scraping news for ticker: MARUTI.NS
-2025-12-01 18:13:47,994 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:47,996 - utils.logger - INFO - Scraping news for ticker: NESTLEIND.NS
-2025-12-01 18:13:49,281 - utils.logger - INFO - Scraping news for ticker: NTPC.NS
-2025-12-01 18:13:50,749 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:50,750 - utils.logger - INFO - Scraping news for ticker: ONGC.NS
-2025-12-01 18:13:52,153 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:52,155 - utils.logger - INFO - Scraping news for ticker: POWERGRID.NS
-2025-12-01 18:13:53,499 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:53,501 - utils.logger - INFO - Scraping news for ticker: RELIANCE.NS
-2025-12-01 18:13:55,181 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:55,182 - utils.logger - INFO - Scraping news for ticker: SBILIFE.NS
-2025-12-01 18:13:56,501 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:56,502 - utils.logger - INFO - Scraping news for ticker: SBIN.NS
-2025-12-01 18:13:57,783 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:57,785 - utils.logger - INFO - Scraping news for ticker: SHREECEM.NS
-2025-12-01 18:13:59,112 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:13:59,114 - utils.logger - INFO - Scraping news for ticker: SHRIRAMFIN.NS
-2025-12-01 18:14:00,376 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:14:00,378 - utils.logger - INFO - Scraping news for ticker: SUNPHARMA.NS
-2025-12-01 18:14:01,785 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:14:01,787 - utils.logger - INFO - Scraping news for ticker: TATACONSUM.NS
-2025-12-01 18:14:03,048 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:14:03,050 - utils.logger - INFO - Scraping news for ticker: TATAMOTORS.NS
-2025-12-01 18:14:04,502 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:14:04,504 - utils.logger - INFO - Scraping news for ticker: TATASTEEL.NS
-2025-12-01 18:14:06,184 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:14:06,186 - utils.logger - INFO - Scraping news for ticker: TCS.NS
-2025-12-01 18:14:07,892 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:14:07,894 - utils.logger - INFO - Scraping news for ticker: TECHM.NS
-2025-12-01 18:14:09,569 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:14:09,571 - utils.logger - INFO - Scraping news for ticker: TITAN.NS
-2025-12-01 18:14:11,388 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:14:11,390 - utils.logger - INFO - Scraping news for ticker: ULTRACEMCO.NS
-2025-12-01 18:14:12,642 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:14:12,644 - utils.logger - INFO - Scraping news for ticker: WIPRO.NS
-2025-12-01 18:14:14,417 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:14:15,078 - utils.logger - INFO - Initialized Ollama Embeddings with model: nomic-embed-text
-2025-12-01 18:24:00,596 - utils.logger - INFO - Initialized Ollama LLM with model: qwen2.5-coder:7b
-2025-12-01 18:24:00,952 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
-2025-12-01 18:24:02,430 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
-2025-12-01 18:24:03,565 - utils.logger - INFO - External web search disabled; using mock search.
-2025-12-01 18:24:03,569 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
-2025-12-01 18:24:05,034 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
-2025-12-01 18:24:05,039 - utils.logger - INFO - Starting scraping at 2025-12-01 18:24:05.038957
-2025-12-01 18:24:05,080 - utils.logger - INFO - PostgreSQL connection established.
-2025-12-01 18:24:05,090 - utils.logger - INFO - Scraping news for ticker: ADANIENT.NS
-2025-12-01 18:24:05,090 - utils.logger - INFO - Scraping data for ADANIENT.NS...
-2025-12-01 18:24:06,652 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:06,654 - utils.logger - INFO - Scraping news for ticker: ADANIPORTS.NS
-2025-12-01 18:24:07,498 - utils.logger - INFO - Data for ADANIENT.NS successfully inserted into the database.
-2025-12-01 18:24:07,498 - utils.logger - INFO - Scraping data for ADANIPORTS.NS...
-2025-12-01 18:24:07,853 - utils.logger - INFO - Data for ADANIPORTS.NS successfully inserted into the database.
-2025-12-01 18:24:07,853 - utils.logger - INFO - Scraping data for APOLLOHOSP.NS...
-2025-12-01 18:24:07,974 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:07,975 - utils.logger - INFO - Scraping news for ticker: APOLLOHOSP.NS
-2025-12-01 18:24:08,215 - utils.logger - INFO - Data for APOLLOHOSP.NS successfully inserted into the database.
-2025-12-01 18:24:08,216 - utils.logger - INFO - Scraping data for ASIANPAINT.NS...
-2025-12-01 18:24:08,596 - utils.logger - INFO - Data for ASIANPAINT.NS successfully inserted into the database.
-2025-12-01 18:24:08,596 - utils.logger - INFO - Scraping data for AXISBANK.NS...
-2025-12-01 18:24:08,973 - utils.logger - INFO - Data for AXISBANK.NS successfully inserted into the database.
-2025-12-01 18:24:08,973 - utils.logger - INFO - Scraping data for BAJAJ-AUTO.NS...
-2025-12-01 18:24:09,327 - utils.logger - INFO - Data for BAJAJ-AUTO.NS successfully inserted into the database.
-2025-12-01 18:24:09,327 - utils.logger - INFO - Scraping data for BAJFINANCE.NS...
-2025-12-01 18:24:09,362 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:09,363 - utils.logger - INFO - Scraping news for ticker: ASIANPAINT.NS
-2025-12-01 18:24:09,694 - utils.logger - INFO - Data for BAJFINANCE.NS successfully inserted into the database.
-2025-12-01 18:24:09,694 - utils.logger - INFO - Scraping data for BAJAJFINSV.NS...
-2025-12-01 18:24:10,045 - utils.logger - INFO - Data for BAJAJFINSV.NS successfully inserted into the database.
-2025-12-01 18:24:10,046 - utils.logger - INFO - Scraping data for BHARTIARTL.NS...
-2025-12-01 18:24:10,399 - utils.logger - INFO - Data for BHARTIARTL.NS successfully inserted into the database.
-2025-12-01 18:24:10,399 - utils.logger - INFO - Scraping data for BPCL.NS...
-2025-12-01 18:24:10,700 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:10,702 - utils.logger - INFO - Scraping news for ticker: AXISBANK.NS
-2025-12-01 18:24:10,786 - utils.logger - INFO - Data for BPCL.NS successfully inserted into the database.
-2025-12-01 18:24:10,786 - utils.logger - INFO - Scraping data for BRITANNIA.NS...
-2025-12-01 18:24:11,156 - utils.logger - INFO - Data for BRITANNIA.NS successfully inserted into the database.
-2025-12-01 18:24:11,156 - utils.logger - INFO - Scraping data for CIPLA.NS...
-2025-12-01 18:24:11,538 - utils.logger - INFO - Data for CIPLA.NS successfully inserted into the database.
-2025-12-01 18:24:11,538 - utils.logger - INFO - Scraping data for COALINDIA.NS...
-2025-12-01 18:24:11,895 - utils.logger - INFO - Data for COALINDIA.NS successfully inserted into the database.
-2025-12-01 18:24:11,895 - utils.logger - INFO - Scraping data for DIVISLAB.NS...
-2025-12-01 18:24:12,260 - utils.logger - INFO - Data for DIVISLAB.NS successfully inserted into the database.
-2025-12-01 18:24:12,260 - utils.logger - INFO - Scraping data for DRREDDY.NS...
-2025-12-01 18:24:12,438 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:12,439 - utils.logger - INFO - Scraping news for ticker: BAJAJ-AUTO.NS
-2025-12-01 18:24:12,622 - utils.logger - INFO - Data for DRREDDY.NS successfully inserted into the database.
-2025-12-01 18:24:12,623 - utils.logger - INFO - Scraping data for EICHERMOT.NS...
-2025-12-01 18:24:13,035 - utils.logger - INFO - Data for EICHERMOT.NS successfully inserted into the database.
-2025-12-01 18:24:13,035 - utils.logger - INFO - Scraping data for GRASIM.NS...
-2025-12-01 18:24:13,400 - utils.logger - INFO - Data for GRASIM.NS successfully inserted into the database.
-2025-12-01 18:24:13,400 - utils.logger - INFO - Scraping data for HCLTECH.NS...
-2025-12-01 18:24:13,766 - utils.logger - INFO - Data for HCLTECH.NS successfully inserted into the database.
-2025-12-01 18:24:13,767 - utils.logger - INFO - Scraping data for HDFCBANK.NS...
-2025-12-01 18:24:14,122 - utils.logger - INFO - Data for HDFCBANK.NS successfully inserted into the database.
-2025-12-01 18:24:14,122 - utils.logger - INFO - Scraping data for HDFCLIFE.NS...
-2025-12-01 18:24:14,461 - utils.logger - INFO - Data for HDFCLIFE.NS successfully inserted into the database.
-2025-12-01 18:24:14,461 - utils.logger - INFO - Scraping data for HEROMOTOCO.NS...
-2025-12-01 18:24:14,610 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:14,612 - utils.logger - INFO - Scraping news for ticker: BAJFINANCE.NS
-2025-12-01 18:24:14,816 - utils.logger - INFO - Data for HEROMOTOCO.NS successfully inserted into the database.
-2025-12-01 18:24:14,817 - utils.logger - INFO - Scraping data for HINDALCO.NS...
-2025-12-01 18:24:15,191 - utils.logger - INFO - Data for HINDALCO.NS successfully inserted into the database.
-2025-12-01 18:24:15,191 - utils.logger - INFO - Scraping data for HINDUNILVR.NS...
-2025-12-01 18:24:15,560 - utils.logger - INFO - Data for HINDUNILVR.NS successfully inserted into the database.
-2025-12-01 18:24:15,561 - utils.logger - INFO - Scraping data for ICICIBANK.NS...
-2025-12-01 18:24:15,926 - utils.logger - INFO - Data for ICICIBANK.NS successfully inserted into the database.
-2025-12-01 18:24:15,926 - utils.logger - INFO - Scraping data for INDUSINDBK.NS...
-2025-12-01 18:24:15,981 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:15,982 - utils.logger - INFO - Scraping news for ticker: BAJAJFINSV.NS
-2025-12-01 18:24:16,290 - utils.logger - INFO - Data for INDUSINDBK.NS successfully inserted into the database.
-2025-12-01 18:24:16,290 - utils.logger - INFO - Scraping data for INFY.NS...
-2025-12-01 18:24:16,656 - utils.logger - INFO - Data for INFY.NS successfully inserted into the database.
-2025-12-01 18:24:16,656 - utils.logger - INFO - Scraping data for ITC.NS...
-2025-12-01 18:24:17,024 - utils.logger - INFO - Data for ITC.NS successfully inserted into the database.
-2025-12-01 18:24:17,024 - utils.logger - INFO - Scraping data for JSWSTEEL.NS...
-2025-12-01 18:24:17,241 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:17,242 - utils.logger - INFO - Scraping news for ticker: BHARTIARTL.NS
-2025-12-01 18:24:17,381 - utils.logger - INFO - Data for JSWSTEEL.NS successfully inserted into the database.
-2025-12-01 18:24:17,382 - utils.logger - INFO - Scraping data for KOTAKBANK.NS...
-2025-12-01 18:24:17,736 - utils.logger - INFO - Data for KOTAKBANK.NS successfully inserted into the database.
-2025-12-01 18:24:17,737 - utils.logger - INFO - Scraping data for LT.NS...
-2025-12-01 18:24:18,100 - utils.logger - INFO - Data for LT.NS successfully inserted into the database.
-2025-12-01 18:24:18,100 - utils.logger - INFO - Scraping data for M&M.NS...
-2025-12-01 18:24:18,462 - utils.logger - INFO - Data for M&M.NS successfully inserted into the database.
-2025-12-01 18:24:18,463 - utils.logger - INFO - Scraping data for MARUTI.NS...
-2025-12-01 18:24:18,625 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:18,626 - utils.logger - INFO - Scraping news for ticker: BPCL.NS
-2025-12-01 18:24:18,811 - utils.logger - INFO - Data for MARUTI.NS successfully inserted into the database.
-2025-12-01 18:24:18,811 - utils.logger - INFO - Scraping data for NESTLEIND.NS...
-2025-12-01 18:24:19,160 - utils.logger - INFO - Data for NESTLEIND.NS successfully inserted into the database.
-2025-12-01 18:24:19,161 - utils.logger - INFO - Scraping data for NTPC.NS...
-2025-12-01 18:24:19,519 - utils.logger - INFO - Data for NTPC.NS successfully inserted into the database.
-2025-12-01 18:24:19,519 - utils.logger - INFO - Scraping data for ONGC.NS...
-2025-12-01 18:24:19,901 - utils.logger - INFO - Data for ONGC.NS successfully inserted into the database.
-2025-12-01 18:24:19,901 - utils.logger - INFO - Scraping data for POWERGRID.NS...
-2025-12-01 18:24:19,996 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:19,997 - utils.logger - INFO - Scraping news for ticker: BRITANNIA.NS
-2025-12-01 18:24:20,284 - utils.logger - INFO - Data for POWERGRID.NS successfully inserted into the database.
-2025-12-01 18:24:20,284 - utils.logger - INFO - Scraping data for RELIANCE.NS...
-2025-12-01 18:24:20,648 - utils.logger - INFO - Data for RELIANCE.NS successfully inserted into the database.
-2025-12-01 18:24:20,648 - utils.logger - INFO - Scraping data for SBILIFE.NS...
-2025-12-01 18:24:20,983 - utils.logger - INFO - Data for SBILIFE.NS successfully inserted into the database.
-2025-12-01 18:24:20,983 - utils.logger - INFO - Scraping data for SBIN.NS...
-2025-12-01 18:24:21,342 - utils.logger - INFO - Data for SBIN.NS successfully inserted into the database.
-2025-12-01 18:24:21,342 - utils.logger - INFO - Scraping data for SHREECEM.NS...
-2025-12-01 18:24:21,736 - utils.logger - INFO - Data for SHREECEM.NS successfully inserted into the database.
-2025-12-01 18:24:21,737 - utils.logger - INFO - Scraping data for SHRIRAMFIN.NS...
-2025-12-01 18:24:21,738 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:21,740 - utils.logger - INFO - Scraping news for ticker: CIPLA.NS
-2025-12-01 18:24:22,093 - utils.logger - INFO - Data for SHRIRAMFIN.NS successfully inserted into the database.
-2025-12-01 18:24:22,094 - utils.logger - INFO - Scraping data for SUNPHARMA.NS...
-2025-12-01 18:24:22,487 - utils.logger - INFO - Data for SUNPHARMA.NS successfully inserted into the database.
-2025-12-01 18:24:22,487 - utils.logger - INFO - Scraping data for TATACONSUM.NS...
-2025-12-01 18:24:22,850 - utils.logger - INFO - Data for TATACONSUM.NS successfully inserted into the database.
-2025-12-01 18:24:22,850 - utils.logger - INFO - Scraping data for TATAMOTORS.NS...
-2025-12-01 18:24:23,187 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:23,189 - utils.logger - INFO - Scraping news for ticker: COALINDIA.NS
-2025-12-01 18:24:23,214 - utils.logger - INFO - Data for TATAMOTORS.NS successfully inserted into the database.
-2025-12-01 18:24:23,214 - utils.logger - INFO - Scraping data for TATASTEEL.NS...
-2025-12-01 18:24:23,568 - utils.logger - INFO - Data for TATASTEEL.NS successfully inserted into the database.
-2025-12-01 18:24:23,568 - utils.logger - INFO - Scraping data for TCS.NS...
-2025-12-01 18:24:23,917 - utils.logger - INFO - Data for TCS.NS successfully inserted into the database.
-2025-12-01 18:24:23,917 - utils.logger - INFO - Scraping data for TECHM.NS...
-2025-12-01 18:24:24,277 - utils.logger - INFO - Data for TECHM.NS successfully inserted into the database.
-2025-12-01 18:24:24,278 - utils.logger - INFO - Scraping data for TITAN.NS...
-2025-12-01 18:24:24,632 - utils.logger - INFO - Data for TITAN.NS successfully inserted into the database.
-2025-12-01 18:24:24,632 - utils.logger - INFO - Scraping data for ULTRACEMCO.NS...
-2025-12-01 18:24:24,735 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:24,736 - utils.logger - INFO - Scraping news for ticker: DIVISLAB.NS
-2025-12-01 18:24:25,050 - utils.logger - INFO - Data for ULTRACEMCO.NS successfully inserted into the database.
-2025-12-01 18:24:25,050 - utils.logger - INFO - Scraping data for WIPRO.NS...
-2025-12-01 18:24:25,419 - utils.logger - INFO - Data for WIPRO.NS successfully inserted into the database.
-2025-12-01 18:24:25,962 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:25,963 - utils.logger - INFO - Scraping news for ticker: DRREDDY.NS
-2025-12-01 18:24:27,257 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:27,258 - utils.logger - INFO - Scraping news for ticker: EICHERMOT.NS
-2025-12-01 18:24:28,521 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:28,522 - utils.logger - INFO - Scraping news for ticker: GRASIM.NS
-2025-12-01 18:24:30,035 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:30,036 - utils.logger - INFO - Scraping news for ticker: HCLTECH.NS
-2025-12-01 18:24:31,526 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:31,527 - utils.logger - INFO - Scraping news for ticker: HDFCBANK.NS
-2025-12-01 18:24:32,955 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:32,957 - utils.logger - INFO - Scraping news for ticker: HDFCLIFE.NS
-2025-12-01 18:24:34,221 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:34,222 - utils.logger - INFO - Scraping news for ticker: HEROMOTOCO.NS
-2025-12-01 18:24:35,463 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:35,465 - utils.logger - INFO - Scraping news for ticker: HINDALCO.NS
-2025-12-01 18:24:36,870 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:36,871 - utils.logger - INFO - Scraping news for ticker: HINDUNILVR.NS
-2025-12-01 18:24:38,178 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:38,179 - utils.logger - INFO - Scraping news for ticker: ICICIBANK.NS
-2025-12-01 18:24:39,909 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:39,910 - utils.logger - INFO - Scraping news for ticker: INDUSINDBK.NS
-2025-12-01 18:24:41,199 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:41,200 - utils.logger - INFO - Scraping news for ticker: INFY.NS
-2025-12-01 18:24:42,613 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:42,615 - utils.logger - INFO - Scraping news for ticker: ITC.NS
-2025-12-01 18:24:44,257 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:44,259 - utils.logger - INFO - Scraping news for ticker: JSWSTEEL.NS
-2025-12-01 18:24:45,623 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:45,624 - utils.logger - INFO - Scraping news for ticker: KOTAKBANK.NS
-2025-12-01 18:24:46,965 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:46,966 - utils.logger - INFO - Scraping news for ticker: LT.NS
-2025-12-01 18:24:48,856 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:48,858 - utils.logger - INFO - Scraping news for ticker: M&M.NS
-2025-12-01 18:24:50,772 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:50,774 - utils.logger - INFO - Scraping news for ticker: MARUTI.NS
-2025-12-01 18:24:52,127 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:52,128 - utils.logger - INFO - Scraping news for ticker: NESTLEIND.NS
-2025-12-01 18:24:53,375 - utils.logger - INFO - Scraping news for ticker: NTPC.NS
-2025-12-01 18:24:54,766 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:54,767 - utils.logger - INFO - Scraping news for ticker: ONGC.NS
-2025-12-01 18:24:56,176 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:56,178 - utils.logger - INFO - Scraping news for ticker: POWERGRID.NS
-2025-12-01 18:24:57,499 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:57,500 - utils.logger - INFO - Scraping news for ticker: RELIANCE.NS
-2025-12-01 18:24:59,192 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:24:59,193 - utils.logger - INFO - Scraping news for ticker: SBILIFE.NS
-2025-12-01 18:25:00,456 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:25:00,458 - utils.logger - INFO - Scraping news for ticker: SBIN.NS
-2025-12-01 18:25:01,902 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:25:01,904 - utils.logger - INFO - Scraping news for ticker: SHREECEM.NS
-2025-12-01 18:25:03,128 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:25:03,130 - utils.logger - INFO - Scraping news for ticker: SHRIRAMFIN.NS
-2025-12-01 18:25:04,349 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:25:04,350 - utils.logger - INFO - Scraping news for ticker: SUNPHARMA.NS
-2025-12-01 18:25:06,088 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:25:06,090 - utils.logger - INFO - Scraping news for ticker: TATACONSUM.NS
-2025-12-01 18:25:07,362 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:25:07,364 - utils.logger - INFO - Scraping news for ticker: TATAMOTORS.NS
-2025-12-01 18:25:08,752 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:25:08,754 - utils.logger - INFO - Scraping news for ticker: TATASTEEL.NS
-2025-12-01 18:25:10,448 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:25:10,449 - utils.logger - INFO - Scraping news for ticker: TCS.NS
-2025-12-01 18:25:12,595 - utils.logger - INFO - Scraping news for ticker: TECHM.NS
-2025-12-01 18:25:14,501 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:25:14,502 - utils.logger - INFO - Scraping news for ticker: TITAN.NS
-2025-12-01 18:25:16,220 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:25:16,221 - utils.logger - INFO - Scraping news for ticker: ULTRACEMCO.NS
-2025-12-01 18:25:17,449 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:25:17,450 - utils.logger - INFO - Scraping news for ticker: WIPRO.NS
-2025-12-01 18:25:19,198 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:25:20,463 - utils.logger - INFO - Initialized Ollama Embeddings with model: nomic-embed-text
-2025-12-01 18:25:27,196 - utils.logger - INFO - Documents stored in Chroma.
-2025-12-01 18:25:27,202 - utils.logger - INFO - Marked 292 documents as synced.
-2025-12-01 18:25:27,202 - utils.logger - INFO - Documents processed, stored, and marked as synced.
-2025-12-01 18:25:27,202 - utils.logger - INFO - Scraping completed at 2025-12-01 18:25:27.202896. Next run in 24.00 hours.
-2025-12-01 18:28:29,673 - utils.logger - INFO - ---RETRIEVE---
-2025-12-01 18:28:30,481 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:28:31,860 - utils.logger - INFO - ---CHECK DOCUMENT RELEVANCE TO THE QUESTION---
-2025-12-01 18:28:37,064 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:28:37,179 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:28:39,364 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:28:41,628 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:28:43,994 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:28:43,995 - utils.logger - INFO - ---ASSESS GRADED DOCUMENTS---
-2025-12-01 18:28:43,995 - utils.logger - INFO - ---DECISION: NOT ALL DOCUMENTS ARE RELEVANT TO THE QUESTION, INCLUDE WEB SEARCH---
-2025-12-01 18:28:43,996 - utils.logger - INFO - ---WEB SEARCH---
-2025-12-01 18:28:43,997 - utils.logger - INFO - ---GENERATE---
-2025-12-01 18:29:40,078 - utils.logger - INFO - ---RETRIEVE---
-2025-12-01 18:29:43,200 - utils.logger - INFO - ---CHECK DOCUMENT RELEVANCE TO THE QUESTION---
-2025-12-01 18:29:45,434 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:29:47,598 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:29:49,974 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:29:52,266 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:29:52,267 - utils.logger - INFO - ---ASSESS GRADED DOCUMENTS---
-2025-12-01 18:29:52,267 - utils.logger - INFO - ---DECISION: NOT ALL DOCUMENTS ARE RELEVANT TO THE QUESTION, INCLUDE WEB SEARCH---
-2025-12-01 18:29:52,268 - utils.logger - INFO - ---WEB SEARCH---
-2025-12-01 18:29:52,269 - utils.logger - INFO - ---GENERATE---
-2025-12-01 18:30:12,867 - utils.logger - INFO - Initialized Ollama LLM with model: qwen2.5-coder:7b
-2025-12-01 18:30:13,218 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
-2025-12-01 18:30:14,729 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
-2025-12-01 18:30:15,902 - utils.logger - INFO - Initialized Tavily Search
-2025-12-01 18:30:15,905 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
-2025-12-01 18:30:17,357 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
-2025-12-01 18:30:17,362 - utils.logger - INFO - Starting scraping at 2025-12-01 18:30:17.362744
-2025-12-01 18:30:17,407 - utils.logger - INFO - PostgreSQL connection established.
-2025-12-01 18:30:17,415 - utils.logger - INFO - Scraping news for ticker: ADANIENT.NS
-2025-12-01 18:30:17,416 - utils.logger - INFO - Scraping data for ADANIENT.NS...
-2025-12-01 18:30:19,062 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:19,064 - utils.logger - INFO - Scraping news for ticker: ADANIPORTS.NS
-2025-12-01 18:30:19,848 - utils.logger - INFO - Data for ADANIENT.NS successfully inserted into the database.
-2025-12-01 18:30:19,848 - utils.logger - INFO - Scraping data for ADANIPORTS.NS...
-2025-12-01 18:30:20,188 - utils.logger - INFO - Data for ADANIPORTS.NS successfully inserted into the database.
-2025-12-01 18:30:20,189 - utils.logger - INFO - Scraping data for APOLLOHOSP.NS...
-2025-12-01 18:30:20,422 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:20,423 - utils.logger - INFO - Scraping news for ticker: APOLLOHOSP.NS
-2025-12-01 18:30:20,595 - utils.logger - INFO - Data for APOLLOHOSP.NS successfully inserted into the database.
-2025-12-01 18:30:20,595 - utils.logger - INFO - Scraping data for ASIANPAINT.NS...
-2025-12-01 18:30:20,956 - utils.logger - INFO - Data for ASIANPAINT.NS successfully inserted into the database.
-2025-12-01 18:30:20,956 - utils.logger - INFO - Scraping data for AXISBANK.NS...
-2025-12-01 18:30:21,317 - utils.logger - INFO - Data for AXISBANK.NS successfully inserted into the database.
-2025-12-01 18:30:21,317 - utils.logger - INFO - Scraping data for BAJAJ-AUTO.NS...
-2025-12-01 18:30:21,677 - utils.logger - INFO - Data for BAJAJ-AUTO.NS successfully inserted into the database.
-2025-12-01 18:30:21,677 - utils.logger - INFO - Scraping data for BAJFINANCE.NS...
-2025-12-01 18:30:21,824 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:21,825 - utils.logger - INFO - Scraping news for ticker: ASIANPAINT.NS
-2025-12-01 18:30:22,043 - utils.logger - INFO - Data for BAJFINANCE.NS successfully inserted into the database.
-2025-12-01 18:30:22,043 - utils.logger - INFO - Scraping data for BAJAJFINSV.NS...
-2025-12-01 18:30:22,393 - utils.logger - INFO - Data for BAJAJFINSV.NS successfully inserted into the database.
-2025-12-01 18:30:22,393 - utils.logger - INFO - Scraping data for BHARTIARTL.NS...
-2025-12-01 18:30:22,742 - utils.logger - INFO - Data for BHARTIARTL.NS successfully inserted into the database.
-2025-12-01 18:30:22,742 - utils.logger - INFO - Scraping data for BPCL.NS...
-2025-12-01 18:30:23,103 - utils.logger - INFO - Data for BPCL.NS successfully inserted into the database.
-2025-12-01 18:30:23,103 - utils.logger - INFO - Scraping data for BRITANNIA.NS...
-2025-12-01 18:30:23,167 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:23,168 - utils.logger - INFO - Scraping news for ticker: AXISBANK.NS
-2025-12-01 18:30:23,459 - utils.logger - INFO - Data for BRITANNIA.NS successfully inserted into the database.
-2025-12-01 18:30:23,459 - utils.logger - INFO - Scraping data for CIPLA.NS...
-2025-12-01 18:30:23,836 - utils.logger - INFO - Data for CIPLA.NS successfully inserted into the database.
-2025-12-01 18:30:23,836 - utils.logger - INFO - Scraping data for COALINDIA.NS...
-2025-12-01 18:30:24,196 - utils.logger - INFO - Data for COALINDIA.NS successfully inserted into the database.
-2025-12-01 18:30:24,196 - utils.logger - INFO - Scraping data for DIVISLAB.NS...
-2025-12-01 18:30:24,547 - utils.logger - INFO - Data for DIVISLAB.NS successfully inserted into the database.
-2025-12-01 18:30:24,547 - utils.logger - INFO - Scraping data for DRREDDY.NS...
-2025-12-01 18:30:24,825 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:24,826 - utils.logger - INFO - Scraping news for ticker: BAJAJ-AUTO.NS
-2025-12-01 18:30:24,909 - utils.logger - INFO - Data for DRREDDY.NS successfully inserted into the database.
-2025-12-01 18:30:24,910 - utils.logger - INFO - Scraping data for EICHERMOT.NS...
-2025-12-01 18:30:25,304 - utils.logger - INFO - Data for EICHERMOT.NS successfully inserted into the database.
-2025-12-01 18:30:25,305 - utils.logger - INFO - Scraping data for GRASIM.NS...
-2025-12-01 18:30:25,654 - utils.logger - INFO - Data for GRASIM.NS successfully inserted into the database.
-2025-12-01 18:30:25,654 - utils.logger - INFO - Scraping data for HCLTECH.NS...
-2025-12-01 18:30:26,010 - utils.logger - INFO - Data for HCLTECH.NS successfully inserted into the database.
-2025-12-01 18:30:26,010 - utils.logger - INFO - Scraping data for HDFCBANK.NS...
-2025-12-01 18:30:26,375 - utils.logger - INFO - Data for HDFCBANK.NS successfully inserted into the database.
-2025-12-01 18:30:26,375 - utils.logger - INFO - Scraping data for HDFCLIFE.NS...
-2025-12-01 18:30:26,677 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:26,678 - utils.logger - INFO - Scraping news for ticker: BAJFINANCE.NS
-2025-12-01 18:30:26,716 - utils.logger - INFO - Data for HDFCLIFE.NS successfully inserted into the database.
-2025-12-01 18:30:26,716 - utils.logger - INFO - Scraping data for HEROMOTOCO.NS...
-2025-12-01 18:30:27,068 - utils.logger - INFO - Data for HEROMOTOCO.NS successfully inserted into the database.
-2025-12-01 18:30:27,069 - utils.logger - INFO - Scraping data for HINDALCO.NS...
-2025-12-01 18:30:27,471 - utils.logger - INFO - Data for HINDALCO.NS successfully inserted into the database.
-2025-12-01 18:30:27,471 - utils.logger - INFO - Scraping data for HINDUNILVR.NS...
-2025-12-01 18:30:27,836 - utils.logger - INFO - Data for HINDUNILVR.NS successfully inserted into the database.
-2025-12-01 18:30:27,836 - utils.logger - INFO - Scraping data for ICICIBANK.NS...
-2025-12-01 18:30:27,973 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:27,974 - utils.logger - INFO - Scraping news for ticker: BAJAJFINSV.NS
-2025-12-01 18:30:28,200 - utils.logger - INFO - Data for ICICIBANK.NS successfully inserted into the database.
-2025-12-01 18:30:28,200 - utils.logger - INFO - Scraping data for INDUSINDBK.NS...
-2025-12-01 18:30:28,558 - utils.logger - INFO - Data for INDUSINDBK.NS successfully inserted into the database.
-2025-12-01 18:30:28,558 - utils.logger - INFO - Scraping data for INFY.NS...
-2025-12-01 18:30:28,928 - utils.logger - INFO - Data for INFY.NS successfully inserted into the database.
-2025-12-01 18:30:28,929 - utils.logger - INFO - Scraping data for ITC.NS...
-2025-12-01 18:30:29,233 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:29,235 - utils.logger - INFO - Scraping news for ticker: BHARTIARTL.NS
-2025-12-01 18:30:29,302 - utils.logger - INFO - Data for ITC.NS successfully inserted into the database.
-2025-12-01 18:30:29,302 - utils.logger - INFO - Scraping data for JSWSTEEL.NS...
-2025-12-01 18:30:29,649 - utils.logger - INFO - Data for JSWSTEEL.NS successfully inserted into the database.
-2025-12-01 18:30:29,649 - utils.logger - INFO - Scraping data for KOTAKBANK.NS...
-2025-12-01 18:30:30,007 - utils.logger - INFO - Data for KOTAKBANK.NS successfully inserted into the database.
-2025-12-01 18:30:30,007 - utils.logger - INFO - Scraping data for LT.NS...
-2025-12-01 18:30:30,364 - utils.logger - INFO - Data for LT.NS successfully inserted into the database.
-2025-12-01 18:30:30,364 - utils.logger - INFO - Scraping data for M&M.NS...
-2025-12-01 18:30:30,493 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:30,495 - utils.logger - INFO - Scraping news for ticker: BPCL.NS
-2025-12-01 18:30:30,743 - utils.logger - INFO - Data for M&M.NS successfully inserted into the database.
-2025-12-01 18:30:30,744 - utils.logger - INFO - Scraping data for MARUTI.NS...
-2025-12-01 18:30:31,096 - utils.logger - INFO - Data for MARUTI.NS successfully inserted into the database.
-2025-12-01 18:30:31,096 - utils.logger - INFO - Scraping data for NESTLEIND.NS...
-2025-12-01 18:30:31,451 - utils.logger - INFO - Data for NESTLEIND.NS successfully inserted into the database.
-2025-12-01 18:30:31,452 - utils.logger - INFO - Scraping data for NTPC.NS...
-2025-12-01 18:30:31,798 - utils.logger - INFO - Data for NTPC.NS successfully inserted into the database.
-2025-12-01 18:30:31,798 - utils.logger - INFO - Scraping data for ONGC.NS...
-2025-12-01 18:30:32,183 - utils.logger - INFO - Data for ONGC.NS successfully inserted into the database.
-2025-12-01 18:30:32,183 - utils.logger - INFO - Scraping data for POWERGRID.NS...
-2025-12-01 18:30:32,531 - utils.logger - INFO - Data for POWERGRID.NS successfully inserted into the database.
-2025-12-01 18:30:32,531 - utils.logger - INFO - Scraping data for RELIANCE.NS...
-2025-12-01 18:30:32,899 - utils.logger - INFO - Data for RELIANCE.NS successfully inserted into the database.
-2025-12-01 18:30:32,899 - utils.logger - INFO - Scraping data for SBILIFE.NS...
-2025-12-01 18:30:32,980 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:32,981 - utils.logger - INFO - Scraping news for ticker: BRITANNIA.NS
-2025-12-01 18:30:33,233 - utils.logger - INFO - Data for SBILIFE.NS successfully inserted into the database.
-2025-12-01 18:30:33,233 - utils.logger - INFO - Scraping data for SBIN.NS...
-2025-12-01 18:30:33,609 - utils.logger - INFO - Data for SBIN.NS successfully inserted into the database.
-2025-12-01 18:30:33,610 - utils.logger - INFO - Scraping data for SHREECEM.NS...
-2025-12-01 18:30:33,967 - utils.logger - INFO - Data for SHREECEM.NS successfully inserted into the database.
-2025-12-01 18:30:33,967 - utils.logger - INFO - Scraping data for SHRIRAMFIN.NS...
-2025-12-01 18:30:34,321 - utils.logger - INFO - Data for SHRIRAMFIN.NS successfully inserted into the database.
-2025-12-01 18:30:34,322 - utils.logger - INFO - Scraping data for SUNPHARMA.NS...
-2025-12-01 18:30:34,375 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:34,376 - utils.logger - INFO - Scraping news for ticker: CIPLA.NS
-2025-12-01 18:30:34,684 - utils.logger - INFO - Data for SUNPHARMA.NS successfully inserted into the database.
-2025-12-01 18:30:34,684 - utils.logger - INFO - Scraping data for TATACONSUM.NS...
-2025-12-01 18:30:35,048 - utils.logger - INFO - Data for TATACONSUM.NS successfully inserted into the database.
-2025-12-01 18:30:35,048 - utils.logger - INFO - Scraping data for TATAMOTORS.NS...
-2025-12-01 18:30:35,405 - utils.logger - INFO - Data for TATAMOTORS.NS successfully inserted into the database.
-2025-12-01 18:30:35,405 - utils.logger - INFO - Scraping data for TATASTEEL.NS...
-2025-12-01 18:30:35,761 - utils.logger - INFO - Data for TATASTEEL.NS successfully inserted into the database.
-2025-12-01 18:30:35,761 - utils.logger - INFO - Scraping data for TCS.NS...
-2025-12-01 18:30:35,815 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:35,816 - utils.logger - INFO - Scraping news for ticker: COALINDIA.NS
-2025-12-01 18:30:36,110 - utils.logger - INFO - Data for TCS.NS successfully inserted into the database.
-2025-12-01 18:30:36,110 - utils.logger - INFO - Scraping data for TECHM.NS...
-2025-12-01 18:30:36,453 - utils.logger - INFO - Data for TECHM.NS successfully inserted into the database.
-2025-12-01 18:30:36,454 - utils.logger - INFO - Scraping data for TITAN.NS...
-2025-12-01 18:30:36,823 - utils.logger - INFO - Data for TITAN.NS successfully inserted into the database.
-2025-12-01 18:30:36,823 - utils.logger - INFO - Scraping data for ULTRACEMCO.NS...
-2025-12-01 18:30:37,314 - utils.logger - INFO - Data for ULTRACEMCO.NS successfully inserted into the database.
-2025-12-01 18:30:37,315 - utils.logger - INFO - Scraping data for WIPRO.NS...
-2025-12-01 18:30:37,686 - utils.logger - INFO - Data for WIPRO.NS successfully inserted into the database.
-2025-12-01 18:30:37,899 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:37,901 - utils.logger - INFO - Scraping news for ticker: DIVISLAB.NS
-2025-12-01 18:30:39,143 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:39,146 - utils.logger - INFO - Scraping news for ticker: DRREDDY.NS
-2025-12-01 18:30:40,408 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:40,410 - utils.logger - INFO - Scraping news for ticker: EICHERMOT.NS
-2025-12-01 18:30:41,671 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:41,673 - utils.logger - INFO - Scraping news for ticker: GRASIM.NS
-2025-12-01 18:30:43,261 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:43,263 - utils.logger - INFO - Scraping news for ticker: HCLTECH.NS
-2025-12-01 18:30:44,751 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:44,754 - utils.logger - INFO - Scraping news for ticker: HDFCBANK.NS
-2025-12-01 18:30:46,208 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:46,209 - utils.logger - INFO - Scraping news for ticker: HDFCLIFE.NS
-2025-12-01 18:30:47,510 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:47,512 - utils.logger - INFO - Scraping news for ticker: HEROMOTOCO.NS
-2025-12-01 18:30:49,674 - utils.logger - INFO - Scraping news for ticker: HINDALCO.NS
-2025-12-01 18:30:51,334 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:51,336 - utils.logger - INFO - Scraping news for ticker: HINDUNILVR.NS
-2025-12-01 18:30:52,614 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:52,615 - utils.logger - INFO - Scraping news for ticker: ICICIBANK.NS
-2025-12-01 18:30:54,340 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:54,342 - utils.logger - INFO - Scraping news for ticker: INDUSINDBK.NS
-2025-12-01 18:30:55,604 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:55,606 - utils.logger - INFO - Scraping news for ticker: INFY.NS
-2025-12-01 18:30:56,986 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:56,987 - utils.logger - INFO - Scraping news for ticker: ITC.NS
-2025-12-01 18:30:58,613 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:58,615 - utils.logger - INFO - Scraping news for ticker: JSWSTEEL.NS
-2025-12-01 18:30:59,987 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:30:59,989 - utils.logger - INFO - Scraping news for ticker: KOTAKBANK.NS
-2025-12-01 18:31:01,341 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:01,342 - utils.logger - INFO - Scraping news for ticker: LT.NS
-2025-12-01 18:31:03,236 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:03,238 - utils.logger - INFO - Scraping news for ticker: M&M.NS
-2025-12-01 18:31:05,132 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:05,133 - utils.logger - INFO - Scraping news for ticker: MARUTI.NS
-2025-12-01 18:31:06,524 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:06,525 - utils.logger - INFO - Scraping news for ticker: NESTLEIND.NS
-2025-12-01 18:31:07,765 - utils.logger - INFO - Scraping news for ticker: NTPC.NS
-2025-12-01 18:31:09,215 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:09,216 - utils.logger - INFO - Scraping news for ticker: ONGC.NS
-2025-12-01 18:31:11,677 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:11,678 - utils.logger - INFO - Scraping news for ticker: POWERGRID.NS
-2025-12-01 18:31:13,061 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:13,062 - utils.logger - INFO - Scraping news for ticker: RELIANCE.NS
-2025-12-01 18:31:14,737 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:14,738 - utils.logger - INFO - Scraping news for ticker: SBILIFE.NS
-2025-12-01 18:31:15,995 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:15,997 - utils.logger - INFO - Scraping news for ticker: SBIN.NS
-2025-12-01 18:31:17,267 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:17,268 - utils.logger - INFO - Scraping news for ticker: SHREECEM.NS
-2025-12-01 18:31:18,523 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:18,524 - utils.logger - INFO - Scraping news for ticker: SHRIRAMFIN.NS
-2025-12-01 18:31:19,783 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:19,784 - utils.logger - INFO - Scraping news for ticker: SUNPHARMA.NS
-2025-12-01 18:31:21,136 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:21,137 - utils.logger - INFO - Scraping news for ticker: TATACONSUM.NS
-2025-12-01 18:31:22,396 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:22,398 - utils.logger - INFO - Scraping news for ticker: TATAMOTORS.NS
-2025-12-01 18:31:23,826 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:23,827 - utils.logger - INFO - Scraping news for ticker: TATASTEEL.NS
-2025-12-01 18:31:25,444 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:25,446 - utils.logger - INFO - Scraping news for ticker: TCS.NS
-2025-12-01 18:31:27,656 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:27,657 - utils.logger - INFO - Scraping news for ticker: TECHM.NS
-2025-12-01 18:31:29,292 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:29,293 - utils.logger - INFO - Scraping news for ticker: TITAN.NS
-2025-12-01 18:31:31,044 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:31,046 - utils.logger - INFO - Scraping news for ticker: ULTRACEMCO.NS
-2025-12-01 18:31:32,295 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:32,296 - utils.logger - INFO - Scraping news for ticker: WIPRO.NS
-2025-12-01 18:31:34,038 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:31:34,955 - utils.logger - INFO - Initialized Ollama Embeddings with model: nomic-embed-text
-2025-12-01 18:31:38,037 - utils.logger - INFO - Documents stored in Chroma.
-2025-12-01 18:31:38,039 - utils.logger - INFO - Marked 48 documents as synced.
-2025-12-01 18:31:38,039 - utils.logger - INFO - Documents processed, stored, and marked as synced.
-2025-12-01 18:31:38,040 - utils.logger - INFO - Scraping completed at 2025-12-01 18:31:38.040114. Next run in 24.00 hours.
-2025-12-01 18:33:01,404 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:33:04,129 - utils.logger - INFO - ---RETRIEVE---
-2025-12-01 18:33:04,894 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:33:06,299 - utils.logger - INFO - ---CHECK DOCUMENT RELEVANCE TO THE QUESTION---
-2025-12-01 18:33:08,762 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:33:11,119 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:33:13,393 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:33:15,710 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:33:15,711 - utils.logger - INFO - ---ASSESS GRADED DOCUMENTS---
-2025-12-01 18:33:15,711 - utils.logger - INFO - ---DECISION: NOT ALL DOCUMENTS ARE RELEVANT TO THE QUESTION, INCLUDE WEB SEARCH---
-2025-12-01 18:33:15,712 - utils.logger - INFO - ---WEB SEARCH---
-2025-12-01 18:33:18,547 - utils.logger - INFO - ---GENERATE---
-2025-12-01 18:33:44,637 - utils.logger - INFO - ---RETRIEVE---
-2025-12-01 18:33:46,801 - utils.logger - INFO - ---CHECK DOCUMENT RELEVANCE TO THE QUESTION---
-2025-12-01 18:33:49,487 - utils.logger - INFO - ---GRADE: DOCUMENT RELEVANT---
-2025-12-01 18:33:50,540 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:33:51,753 - utils.logger - INFO - ---GRADE: DOCUMENT RELEVANT---
-2025-12-01 18:33:54,130 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:33:54,367 - utils.logger - INFO - ---GRADE: DOCUMENT RELEVANT---
-2025-12-01 18:33:56,614 - utils.logger - INFO - ---GRADE: DOCUMENT RELEVANT---
-2025-12-01 18:33:56,615 - utils.logger - INFO - ---ASSESS GRADED DOCUMENTS---
-2025-12-01 18:33:56,615 - utils.logger - INFO - ---DECISION: GENERATE---
-2025-12-01 18:33:56,616 - utils.logger - INFO - ---GENERATE---
-2025-12-01 18:34:20,184 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:34:23,731 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:38:09,117 - utils.logger - INFO - Initialized Ollama LLM with model: qwen2.5-coder:7b
-2025-12-01 18:38:09,576 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
-2025-12-01 18:38:11,307 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
-2025-12-01 18:38:13,047 - utils.logger - INFO - Initialized Tavily Search
-2025-12-01 18:38:13,051 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
-2025-12-01 18:38:14,510 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
-2025-12-01 18:38:14,514 - utils.logger - INFO - Starting scraping at 2025-12-01 18:38:14.514591
-2025-12-01 18:38:14,557 - utils.logger - INFO - PostgreSQL connection established.
-2025-12-01 18:38:14,566 - utils.logger - INFO - Scraping news for ticker: ADANIENT.NS
-2025-12-01 18:38:14,567 - utils.logger - INFO - Scraping data for ADANIENT.NS...
-2025-12-01 18:38:16,139 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:16,141 - utils.logger - INFO - Scraping news for ticker: ADANIPORTS.NS
-2025-12-01 18:38:17,019 - utils.logger - INFO - Data for ADANIENT.NS successfully inserted into the database.
-2025-12-01 18:38:17,019 - utils.logger - INFO - Scraping data for ADANIPORTS.NS...
-2025-12-01 18:38:17,372 - utils.logger - INFO - Data for ADANIPORTS.NS successfully inserted into the database.
-2025-12-01 18:38:17,372 - utils.logger - INFO - Scraping data for APOLLOHOSP.NS...
-2025-12-01 18:38:17,452 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:17,454 - utils.logger - INFO - Scraping news for ticker: APOLLOHOSP.NS
-2025-12-01 18:38:17,734 - utils.logger - INFO - Data for APOLLOHOSP.NS successfully inserted into the database.
-2025-12-01 18:38:17,734 - utils.logger - INFO - Scraping data for ASIANPAINT.NS...
-2025-12-01 18:38:18,104 - utils.logger - INFO - Data for ASIANPAINT.NS successfully inserted into the database.
-2025-12-01 18:38:18,104 - utils.logger - INFO - Scraping data for AXISBANK.NS...
-2025-12-01 18:38:18,490 - utils.logger - INFO - Data for AXISBANK.NS successfully inserted into the database.
-2025-12-01 18:38:18,490 - utils.logger - INFO - Scraping data for BAJAJ-AUTO.NS...
-2025-12-01 18:38:18,848 - utils.logger - INFO - Data for BAJAJ-AUTO.NS successfully inserted into the database.
-2025-12-01 18:38:18,848 - utils.logger - INFO - Scraping data for BAJFINANCE.NS...
-2025-12-01 18:38:18,855 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:18,856 - utils.logger - INFO - Scraping news for ticker: ASIANPAINT.NS
-2025-12-01 18:38:19,209 - utils.logger - INFO - Data for BAJFINANCE.NS successfully inserted into the database.
-2025-12-01 18:38:19,209 - utils.logger - INFO - Scraping data for BAJAJFINSV.NS...
-2025-12-01 18:38:19,620 - utils.logger - INFO - Data for BAJAJFINSV.NS successfully inserted into the database.
-2025-12-01 18:38:19,620 - utils.logger - INFO - Scraping data for BHARTIARTL.NS...
-2025-12-01 18:38:19,964 - utils.logger - INFO - Data for BHARTIARTL.NS successfully inserted into the database.
-2025-12-01 18:38:19,964 - utils.logger - INFO - Scraping data for BPCL.NS...
-2025-12-01 18:38:20,168 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:20,169 - utils.logger - INFO - Scraping news for ticker: AXISBANK.NS
-2025-12-01 18:38:20,299 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:38:20,326 - utils.logger - INFO - Data for BPCL.NS successfully inserted into the database.
-2025-12-01 18:38:20,326 - utils.logger - INFO - Scraping data for BRITANNIA.NS...
-2025-12-01 18:38:20,736 - utils.logger - INFO - Data for BRITANNIA.NS successfully inserted into the database.
-2025-12-01 18:38:20,736 - utils.logger - INFO - Scraping data for CIPLA.NS...
-2025-12-01 18:38:21,125 - utils.logger - INFO - Data for CIPLA.NS successfully inserted into the database.
-2025-12-01 18:38:21,125 - utils.logger - INFO - Scraping data for COALINDIA.NS...
-2025-12-01 18:38:21,476 - utils.logger - INFO - Data for COALINDIA.NS successfully inserted into the database.
-2025-12-01 18:38:21,477 - utils.logger - INFO - Scraping data for DIVISLAB.NS...
-2025-12-01 18:38:21,813 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:21,815 - utils.logger - INFO - Scraping news for ticker: BAJAJ-AUTO.NS
-2025-12-01 18:38:21,838 - utils.logger - INFO - Data for DIVISLAB.NS successfully inserted into the database.
-2025-12-01 18:38:21,838 - utils.logger - INFO - Scraping data for DRREDDY.NS...
-2025-12-01 18:38:22,198 - utils.logger - INFO - Data for DRREDDY.NS successfully inserted into the database.
-2025-12-01 18:38:22,198 - utils.logger - INFO - Scraping data for EICHERMOT.NS...
-2025-12-01 18:38:22,565 - utils.logger - INFO - Data for EICHERMOT.NS successfully inserted into the database.
-2025-12-01 18:38:22,565 - utils.logger - INFO - Scraping data for GRASIM.NS...
-2025-12-01 18:38:22,951 - utils.logger - INFO - Data for GRASIM.NS successfully inserted into the database.
-2025-12-01 18:38:22,951 - utils.logger - INFO - Scraping data for HCLTECH.NS...
-2025-12-01 18:38:23,336 - utils.logger - INFO - Data for HCLTECH.NS successfully inserted into the database.
-2025-12-01 18:38:23,337 - utils.logger - INFO - Scraping data for HDFCBANK.NS...
-2025-12-01 18:38:23,721 - utils.logger - INFO - Data for HDFCBANK.NS successfully inserted into the database.
-2025-12-01 18:38:23,721 - utils.logger - INFO - Scraping data for HDFCLIFE.NS...
-2025-12-01 18:38:23,743 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:23,745 - utils.logger - INFO - Scraping news for ticker: BAJFINANCE.NS
-2025-12-01 18:38:23,793 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:38:24,126 - utils.logger - INFO - Data for HDFCLIFE.NS successfully inserted into the database.
-2025-12-01 18:38:24,126 - utils.logger - INFO - Scraping data for HEROMOTOCO.NS...
-2025-12-01 18:38:24,496 - utils.logger - INFO - Data for HEROMOTOCO.NS successfully inserted into the database.
-2025-12-01 18:38:24,496 - utils.logger - INFO - Scraping data for HINDALCO.NS...
-2025-12-01 18:38:24,934 - utils.logger - INFO - Data for HINDALCO.NS successfully inserted into the database.
-2025-12-01 18:38:24,935 - utils.logger - INFO - Scraping data for HINDUNILVR.NS...
-2025-12-01 18:38:25,018 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:25,020 - utils.logger - INFO - Scraping news for ticker: BAJAJFINSV.NS
-2025-12-01 18:38:25,322 - utils.logger - INFO - Data for HINDUNILVR.NS successfully inserted into the database.
-2025-12-01 18:38:25,322 - utils.logger - INFO - Scraping data for ICICIBANK.NS...
-2025-12-01 18:38:25,701 - utils.logger - INFO - Data for ICICIBANK.NS successfully inserted into the database.
-2025-12-01 18:38:25,701 - utils.logger - INFO - Scraping data for INDUSINDBK.NS...
-2025-12-01 18:38:26,289 - utils.logger - INFO - Data for INDUSINDBK.NS successfully inserted into the database.
-2025-12-01 18:38:26,290 - utils.logger - INFO - Scraping data for INFY.NS...
-2025-12-01 18:38:26,669 - utils.logger - INFO - Data for INFY.NS successfully inserted into the database.
-2025-12-01 18:38:26,669 - utils.logger - INFO - Scraping data for ITC.NS...
-2025-12-01 18:38:26,670 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:26,672 - utils.logger - INFO - Scraping news for ticker: BHARTIARTL.NS
-2025-12-01 18:38:27,050 - utils.logger - INFO - Data for ITC.NS successfully inserted into the database.
-2025-12-01 18:38:27,051 - utils.logger - INFO - Scraping data for JSWSTEEL.NS...
-2025-12-01 18:38:27,426 - utils.logger - INFO - Data for JSWSTEEL.NS successfully inserted into the database.
-2025-12-01 18:38:27,427 - utils.logger - INFO - Scraping data for KOTAKBANK.NS...
-2025-12-01 18:38:27,795 - utils.logger - INFO - Data for KOTAKBANK.NS successfully inserted into the database.
-2025-12-01 18:38:27,795 - utils.logger - INFO - Scraping data for LT.NS...
-2025-12-01 18:38:27,945 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:27,947 - utils.logger - INFO - Scraping news for ticker: BPCL.NS
-2025-12-01 18:38:28,148 - utils.logger - INFO - Data for LT.NS successfully inserted into the database.
-2025-12-01 18:38:28,148 - utils.logger - INFO - Scraping data for M&M.NS...
-2025-12-01 18:38:28,512 - utils.logger - INFO - Data for M&M.NS successfully inserted into the database.
-2025-12-01 18:38:28,513 - utils.logger - INFO - Scraping data for MARUTI.NS...
-2025-12-01 18:38:28,920 - utils.logger - INFO - Data for MARUTI.NS successfully inserted into the database.
-2025-12-01 18:38:28,920 - utils.logger - INFO - Scraping data for NESTLEIND.NS...
-2025-12-01 18:38:29,328 - utils.logger - INFO - Data for NESTLEIND.NS successfully inserted into the database.
-2025-12-01 18:38:29,328 - utils.logger - INFO - Scraping data for NTPC.NS...
-2025-12-01 18:38:29,349 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:29,351 - utils.logger - INFO - Scraping news for ticker: BRITANNIA.NS
-2025-12-01 18:38:29,689 - utils.logger - INFO - Data for NTPC.NS successfully inserted into the database.
-2025-12-01 18:38:29,690 - utils.logger - INFO - Scraping data for ONGC.NS...
-2025-12-01 18:38:30,056 - utils.logger - INFO - Data for ONGC.NS successfully inserted into the database.
-2025-12-01 18:38:30,056 - utils.logger - INFO - Scraping data for POWERGRID.NS...
-2025-12-01 18:38:30,405 - utils.logger - INFO - Data for POWERGRID.NS successfully inserted into the database.
-2025-12-01 18:38:30,405 - utils.logger - INFO - Scraping data for RELIANCE.NS...
-2025-12-01 18:38:30,742 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:30,743 - utils.logger - INFO - Scraping news for ticker: CIPLA.NS
-2025-12-01 18:38:30,784 - utils.logger - INFO - Data for RELIANCE.NS successfully inserted into the database.
-2025-12-01 18:38:30,784 - utils.logger - INFO - Scraping data for SBILIFE.NS...
-2025-12-01 18:38:31,121 - utils.logger - INFO - Data for SBILIFE.NS successfully inserted into the database.
-2025-12-01 18:38:31,122 - utils.logger - INFO - Scraping data for SBIN.NS...
-2025-12-01 18:38:31,486 - utils.logger - INFO - Data for SBIN.NS successfully inserted into the database.
-2025-12-01 18:38:31,486 - utils.logger - INFO - Scraping data for SHREECEM.NS...
-2025-12-01 18:38:31,846 - utils.logger - INFO - Data for SHREECEM.NS successfully inserted into the database.
-2025-12-01 18:38:31,846 - utils.logger - INFO - Scraping data for SHRIRAMFIN.NS...
-2025-12-01 18:38:32,204 - utils.logger - INFO - Data for SHRIRAMFIN.NS successfully inserted into the database.
-2025-12-01 18:38:32,204 - utils.logger - INFO - Scraping data for SUNPHARMA.NS...
-2025-12-01 18:38:32,377 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:32,378 - utils.logger - INFO - Scraping news for ticker: COALINDIA.NS
-2025-12-01 18:38:32,575 - utils.logger - INFO - Data for SUNPHARMA.NS successfully inserted into the database.
-2025-12-01 18:38:32,575 - utils.logger - INFO - Scraping data for TATACONSUM.NS...
-2025-12-01 18:38:32,946 - utils.logger - INFO - Data for TATACONSUM.NS successfully inserted into the database.
-2025-12-01 18:38:32,947 - utils.logger - INFO - Scraping data for TATAMOTORS.NS...
-2025-12-01 18:38:33,322 - utils.logger - INFO - Data for TATAMOTORS.NS successfully inserted into the database.
-2025-12-01 18:38:33,322 - utils.logger - INFO - Scraping data for TATASTEEL.NS...
-2025-12-01 18:38:33,684 - utils.logger - INFO - Data for TATASTEEL.NS successfully inserted into the database.
-2025-12-01 18:38:33,684 - utils.logger - INFO - Scraping data for TCS.NS...
-2025-12-01 18:38:34,039 - utils.logger - INFO - Data for TCS.NS successfully inserted into the database.
-2025-12-01 18:38:34,039 - utils.logger - INFO - Scraping data for TECHM.NS...
-2025-12-01 18:38:34,239 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:34,240 - utils.logger - INFO - Scraping news for ticker: DIVISLAB.NS
-2025-12-01 18:38:34,445 - utils.logger - INFO - Data for TECHM.NS successfully inserted into the database.
-2025-12-01 18:38:34,445 - utils.logger - INFO - Scraping data for TITAN.NS...
-2025-12-01 18:38:34,792 - utils.logger - INFO - Data for TITAN.NS successfully inserted into the database.
-2025-12-01 18:38:34,792 - utils.logger - INFO - Scraping data for ULTRACEMCO.NS...
-2025-12-01 18:38:35,148 - utils.logger - INFO - Data for ULTRACEMCO.NS successfully inserted into the database.
-2025-12-01 18:38:35,148 - utils.logger - INFO - Scraping data for WIPRO.NS...
-2025-12-01 18:38:35,485 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:35,486 - utils.logger - INFO - Scraping news for ticker: DRREDDY.NS
-2025-12-01 18:38:35,511 - utils.logger - INFO - Data for WIPRO.NS successfully inserted into the database.
-2025-12-01 18:38:36,810 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:36,811 - utils.logger - INFO - Scraping news for ticker: EICHERMOT.NS
-2025-12-01 18:38:38,071 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:38,073 - utils.logger - INFO - Scraping news for ticker: GRASIM.NS
-2025-12-01 18:38:39,375 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:39,377 - utils.logger - INFO - Scraping news for ticker: HCLTECH.NS
-2025-12-01 18:38:40,866 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:40,867 - utils.logger - INFO - Scraping news for ticker: HDFCBANK.NS
-2025-12-01 18:38:42,339 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:42,341 - utils.logger - INFO - Scraping news for ticker: HDFCLIFE.NS
-2025-12-01 18:38:43,601 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:43,602 - utils.logger - INFO - Scraping news for ticker: HEROMOTOCO.NS
-2025-12-01 18:38:44,827 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:44,829 - utils.logger - INFO - Scraping news for ticker: HINDALCO.NS
-2025-12-01 18:38:46,233 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:46,235 - utils.logger - INFO - Scraping news for ticker: HINDUNILVR.NS
-2025-12-01 18:38:47,508 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:47,510 - utils.logger - INFO - Scraping news for ticker: ICICIBANK.NS
-2025-12-01 18:38:49,357 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:49,359 - utils.logger - INFO - Scraping news for ticker: INDUSINDBK.NS
-2025-12-01 18:38:50,685 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:50,686 - utils.logger - INFO - Scraping news for ticker: INFY.NS
-2025-12-01 18:38:52,071 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:52,072 - utils.logger - INFO - Scraping news for ticker: ITC.NS
-2025-12-01 18:38:53,706 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:53,707 - utils.logger - INFO - Scraping news for ticker: JSWSTEEL.NS
-2025-12-01 18:38:55,064 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:55,065 - utils.logger - INFO - Scraping news for ticker: KOTAKBANK.NS
-2025-12-01 18:38:56,454 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:56,455 - utils.logger - INFO - Scraping news for ticker: LT.NS
-2025-12-01 18:38:58,350 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:38:58,351 - utils.logger - INFO - Scraping news for ticker: M&M.NS
-2025-12-01 18:39:00,314 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:00,315 - utils.logger - INFO - Scraping news for ticker: MARUTI.NS
-2025-12-01 18:39:01,710 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:01,711 - utils.logger - INFO - Scraping news for ticker: NESTLEIND.NS
-2025-12-01 18:39:02,977 - utils.logger - INFO - Scraping news for ticker: NTPC.NS
-2025-12-01 18:39:04,410 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:04,411 - utils.logger - INFO - Scraping news for ticker: ONGC.NS
-2025-12-01 18:39:05,873 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:05,875 - utils.logger - INFO - Scraping news for ticker: POWERGRID.NS
-2025-12-01 18:39:07,255 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:07,257 - utils.logger - INFO - Scraping news for ticker: RELIANCE.NS
-2025-12-01 18:39:08,899 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:08,900 - utils.logger - INFO - Scraping news for ticker: SBILIFE.NS
-2025-12-01 18:39:10,285 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:10,286 - utils.logger - INFO - Scraping news for ticker: SBIN.NS
-2025-12-01 18:39:11,541 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:11,543 - utils.logger - INFO - Scraping news for ticker: SHREECEM.NS
-2025-12-01 18:39:12,832 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:12,834 - utils.logger - INFO - Scraping news for ticker: SHRIRAMFIN.NS
-2025-12-01 18:39:14,110 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:14,112 - utils.logger - INFO - Scraping news for ticker: SUNPHARMA.NS
-2025-12-01 18:39:15,482 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:15,483 - utils.logger - INFO - Scraping news for ticker: TATACONSUM.NS
-2025-12-01 18:39:16,745 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:16,746 - utils.logger - INFO - Scraping news for ticker: TATAMOTORS.NS
-2025-12-01 18:39:17,460 - utils.logger - INFO - ---RETRIEVE---
-2025-12-01 18:39:18,159 - utils.logger - INFO - Initialized Ollama Embeddings with model: nomic-embed-text
-2025-12-01 18:39:18,425 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:18,426 - utils.logger - INFO - Scraping news for ticker: TATASTEEL.NS
-2025-12-01 18:39:20,093 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:20,094 - utils.logger - INFO - Scraping news for ticker: TCS.NS
-2025-12-01 18:39:21,277 - utils.logger - INFO - ---CHECK DOCUMENT RELEVANCE TO THE QUESTION---
-2025-12-01 18:39:21,935 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:21,936 - utils.logger - INFO - Scraping news for ticker: TECHM.NS
-2025-12-01 18:39:23,515 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:39:23,564 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:23,565 - utils.logger - INFO - Scraping news for ticker: TITAN.NS
-2025-12-01 18:39:23,642 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:39:23,772 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:39:23,898 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:39:23,899 - utils.logger - INFO - ---ASSESS GRADED DOCUMENTS---
-2025-12-01 18:39:23,899 - utils.logger - INFO - ---DECISION: NOT ALL DOCUMENTS ARE RELEVANT TO THE QUESTION, INCLUDE WEB SEARCH---
-2025-12-01 18:39:23,900 - utils.logger - INFO - ---WEB SEARCH---
-2025-12-01 18:39:25,287 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:25,288 - utils.logger - INFO - Scraping news for ticker: ULTRACEMCO.NS
-2025-12-01 18:39:25,411 - utils.logger - INFO - ---GENERATE---
-2025-12-01 18:39:26,618 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:26,620 - utils.logger - INFO - Scraping news for ticker: WIPRO.NS
-2025-12-01 18:39:28,605 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:39:32,046 - utils.logger - INFO - Documents stored in Chroma.
-2025-12-01 18:39:32,048 - utils.logger - INFO - Marked 49 documents as synced.
-2025-12-01 18:39:32,048 - utils.logger - INFO - Documents processed, stored, and marked as synced.
-2025-12-01 18:39:32,049 - utils.logger - INFO - Scraping completed at 2025-12-01 18:39:32.049103. Next run in 24.00 hours.
-2025-12-01 18:39:56,065 - utils.logger - INFO - ---RETRIEVE---
-2025-12-01 18:39:58,204 - utils.logger - INFO - ---CHECK DOCUMENT RELEVANCE TO THE QUESTION---
-2025-12-01 18:40:00,661 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:40:00,970 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:40:01,104 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:40:01,244 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:40:01,244 - utils.logger - INFO - ---ASSESS GRADED DOCUMENTS---
-2025-12-01 18:40:01,245 - utils.logger - INFO - ---DECISION: NOT ALL DOCUMENTS ARE RELEVANT TO THE QUESTION, INCLUDE WEB SEARCH---
-2025-12-01 18:40:01,246 - utils.logger - INFO - ---WEB SEARCH---
-2025-12-01 18:40:04,148 - utils.logger - INFO - ---GENERATE---
-2025-12-01 18:40:28,642 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:40:32,038 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:41:03,162 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:41:06,805 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:41:23,503 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:41:26,914 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:41:32,165 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:41:35,533 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:41:35,537 - utils.logger - INFO - ---GENERATE RESULTS---
-2025-12-01 18:42:22,889 - utils.logger - INFO - ---RETRIEVE---
-2025-12-01 18:42:25,080 - utils.logger - INFO - ---CHECK DOCUMENT RELEVANCE TO THE QUESTION---
-2025-12-01 18:42:27,612 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:42:27,894 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:42:28,025 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:42:28,156 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:42:28,157 - utils.logger - INFO - ---ASSESS GRADED DOCUMENTS---
-2025-12-01 18:42:28,157 - utils.logger - INFO - ---DECISION: NOT ALL DOCUMENTS ARE RELEVANT TO THE QUESTION, INCLUDE WEB SEARCH---
-2025-12-01 18:42:28,158 - utils.logger - INFO - ---WEB SEARCH---
-2025-12-01 18:42:31,424 - utils.logger - INFO - ---GENERATE---
-2025-12-01 18:44:35,818 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:44:39,355 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:44:39,387 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:44:42,619 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:45:33,626 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:45:37,051 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:45:47,404 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:45:50,849 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:46:00,721 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:46:04,243 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:47:23,550 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:47:26,881 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:47:26,885 - utils.logger - INFO - ---GENERATE RESULTS---
-2025-12-01 18:47:28,152 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:47:31,583 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:47:31,587 - utils.logger - INFO - ---GENERATE RESULTS---
-2025-12-01 18:47:52,560 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:47:56,153 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:50:10,110 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:50:13,381 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:50:13,386 - utils.logger - INFO - ---GENERATE RESULTS---
-2025-12-01 18:52:17,799 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:52:21,250 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:53:20,987 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:53:24,351 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:53:24,355 - utils.logger - INFO - ---GENERATE RESULTS---
-2025-12-01 18:53:36,394 - utils.logger - INFO - Initialized Ollama LLM with model: qwen2.5-coder:7b
-2025-12-01 18:53:36,932 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
-2025-12-01 18:53:38,397 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
-2025-12-01 18:53:40,207 - utils.logger - INFO - Initialized Tavily Search
-2025-12-01 18:53:40,210 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
-2025-12-01 18:53:41,671 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
-2025-12-01 18:53:41,676 - utils.logger - INFO - Starting scraping at 2025-12-01 18:53:41.676025
-2025-12-01 18:53:41,715 - utils.logger - INFO - PostgreSQL connection established.
-2025-12-01 18:53:41,723 - utils.logger - INFO - Scraping news for ticker: ADANIENT.NS
-2025-12-01 18:53:41,724 - utils.logger - INFO - Scraping data for ADANIENT.NS...
-2025-12-01 18:53:43,342 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:53:43,343 - utils.logger - INFO - Scraping news for ticker: ADANIPORTS.NS
-2025-12-01 18:53:44,423 - utils.logger - INFO - Data for ADANIENT.NS successfully inserted into the database.
-2025-12-01 18:53:44,423 - utils.logger - INFO - Scraping data for ADANIPORTS.NS...
-2025-12-01 18:53:44,792 - utils.logger - INFO - Data for ADANIPORTS.NS successfully inserted into the database.
-2025-12-01 18:53:44,792 - utils.logger - INFO - Scraping data for APOLLOHOSP.NS...
-2025-12-01 18:53:44,802 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:53:44,803 - utils.logger - INFO - Scraping news for ticker: APOLLOHOSP.NS
-2025-12-01 18:53:45,158 - utils.logger - INFO - Data for APOLLOHOSP.NS successfully inserted into the database.
-2025-12-01 18:53:45,158 - utils.logger - INFO - Scraping data for ASIANPAINT.NS...
-2025-12-01 18:53:45,526 - utils.logger - INFO - Data for ASIANPAINT.NS successfully inserted into the database.
-2025-12-01 18:53:45,527 - utils.logger - INFO - Scraping data for AXISBANK.NS...
-2025-12-01 18:53:45,888 - utils.logger - INFO - Data for AXISBANK.NS successfully inserted into the database.
-2025-12-01 18:53:45,888 - utils.logger - INFO - Scraping data for BAJAJ-AUTO.NS...
-2025-12-01 18:53:46,093 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:53:46,094 - utils.logger - INFO - Scraping news for ticker: ASIANPAINT.NS
-2025-12-01 18:53:46,240 - utils.logger - INFO - Data for BAJAJ-AUTO.NS successfully inserted into the database.
-2025-12-01 18:53:46,241 - utils.logger - INFO - Scraping data for BAJFINANCE.NS...
-2025-12-01 18:53:46,607 - utils.logger - INFO - Data for BAJFINANCE.NS successfully inserted into the database.
-2025-12-01 18:53:46,607 - utils.logger - INFO - Scraping data for BAJAJFINSV.NS...
-2025-12-01 18:53:47,007 - utils.logger - INFO - Data for BAJAJFINSV.NS successfully inserted into the database.
-2025-12-01 18:53:47,007 - utils.logger - INFO - Scraping data for BHARTIARTL.NS...
-2025-12-01 18:53:47,364 - utils.logger - INFO - Data for BHARTIARTL.NS successfully inserted into the database.
-2025-12-01 18:53:47,364 - utils.logger - INFO - Scraping data for BPCL.NS...
-2025-12-01 18:53:47,438 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:53:47,439 - utils.logger - INFO - Scraping news for ticker: AXISBANK.NS
-2025-12-01 18:53:47,766 - utils.logger - INFO - Data for BPCL.NS successfully inserted into the database.
-2025-12-01 18:53:47,766 - utils.logger - INFO - Scraping data for BRITANNIA.NS...
-2025-12-01 18:53:48,149 - utils.logger - INFO - Data for BRITANNIA.NS successfully inserted into the database.
-2025-12-01 18:53:48,149 - utils.logger - INFO - Scraping data for CIPLA.NS...
-2025-12-01 18:53:48,526 - utils.logger - INFO - Data for CIPLA.NS successfully inserted into the database.
-2025-12-01 18:53:48,526 - utils.logger - INFO - Scraping data for COALINDIA.NS...
-2025-12-01 18:53:48,885 - utils.logger - INFO - Data for COALINDIA.NS successfully inserted into the database.
-2025-12-01 18:53:48,886 - utils.logger - INFO - Scraping data for DIVISLAB.NS...
-2025-12-01 18:53:49,150 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:53:49,151 - utils.logger - INFO - Scraping news for ticker: BAJAJ-AUTO.NS
-2025-12-01 18:53:49,241 - utils.logger - INFO - Data for DIVISLAB.NS successfully inserted into the database.
-2025-12-01 18:53:49,241 - utils.logger - INFO - Scraping data for DRREDDY.NS...
-2025-12-01 18:53:49,606 - utils.logger - INFO - Data for DRREDDY.NS successfully inserted into the database.
-2025-12-01 18:53:49,606 - utils.logger - INFO - Scraping data for EICHERMOT.NS...
-2025-12-01 18:53:49,987 - utils.logger - INFO - Data for EICHERMOT.NS successfully inserted into the database.
-2025-12-01 18:53:49,987 - utils.logger - INFO - Scraping data for GRASIM.NS...
-2025-12-01 18:53:50,357 - utils.logger - INFO - Data for GRASIM.NS successfully inserted into the database.
-2025-12-01 18:53:50,357 - utils.logger - INFO - Scraping data for HCLTECH.NS...
-2025-12-01 18:53:50,713 - utils.logger - INFO - Data for HCLTECH.NS successfully inserted into the database.
-2025-12-01 18:53:50,713 - utils.logger - INFO - Scraping data for HDFCBANK.NS...
-2025-12-01 18:53:50,980 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:53:50,982 - utils.logger - INFO - Scraping news for ticker: BAJFINANCE.NS
-2025-12-01 18:53:51,088 - utils.logger - INFO - Data for HDFCBANK.NS successfully inserted into the database.
-2025-12-01 18:53:51,088 - utils.logger - INFO - Scraping data for HDFCLIFE.NS...
-2025-12-01 18:53:51,451 - utils.logger - INFO - Data for HDFCLIFE.NS successfully inserted into the database.
-2025-12-01 18:53:51,451 - utils.logger - INFO - Scraping data for HEROMOTOCO.NS...
-2025-12-01 18:53:51,817 - utils.logger - INFO - Data for HEROMOTOCO.NS successfully inserted into the database.
-2025-12-01 18:53:51,817 - utils.logger - INFO - Scraping data for HINDALCO.NS...
-2025-12-01 18:53:52,186 - utils.logger - INFO - Data for HINDALCO.NS successfully inserted into the database.
-2025-12-01 18:53:52,186 - utils.logger - INFO - Scraping data for HINDUNILVR.NS...
-2025-12-01 18:53:52,268 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:53:52,269 - utils.logger - INFO - Scraping news for ticker: BAJAJFINSV.NS
-2025-12-01 18:53:52,571 - utils.logger - INFO - Data for HINDUNILVR.NS successfully inserted into the database.
-2025-12-01 18:53:52,571 - utils.logger - INFO - Scraping data for ICICIBANK.NS...
-2025-12-01 18:53:52,942 - utils.logger - INFO - Data for ICICIBANK.NS successfully inserted into the database.
-2025-12-01 18:53:52,942 - utils.logger - INFO - Scraping data for INDUSINDBK.NS...
-2025-12-01 18:53:53,313 - utils.logger - INFO - Data for INDUSINDBK.NS successfully inserted into the database.
-2025-12-01 18:53:53,313 - utils.logger - INFO - Scraping data for INFY.NS...
-2025-12-01 18:53:53,674 - utils.logger - INFO - Data for INFY.NS successfully inserted into the database.
-2025-12-01 18:53:53,674 - utils.logger - INFO - Scraping data for ITC.NS...
-2025-12-01 18:53:53,780 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:53:53,781 - utils.logger - INFO - Scraping news for ticker: BHARTIARTL.NS
-2025-12-01 18:53:54,045 - utils.logger - INFO - Data for ITC.NS successfully inserted into the database.
-2025-12-01 18:53:54,045 - utils.logger - INFO - Scraping data for JSWSTEEL.NS...
-2025-12-01 18:53:54,398 - utils.logger - INFO - Data for JSWSTEEL.NS successfully inserted into the database.
-2025-12-01 18:53:54,399 - utils.logger - INFO - Scraping data for KOTAKBANK.NS...
-2025-12-01 18:53:54,760 - utils.logger - INFO - Data for KOTAKBANK.NS successfully inserted into the database.
-2025-12-01 18:53:54,760 - utils.logger - INFO - Scraping data for LT.NS...
-2025-12-01 18:53:55,041 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:53:55,042 - utils.logger - INFO - Scraping news for ticker: BPCL.NS
-2025-12-01 18:53:55,115 - utils.logger - INFO - Data for LT.NS successfully inserted into the database.
-2025-12-01 18:53:55,115 - utils.logger - INFO - Scraping data for M&M.NS...
-2025-12-01 18:53:55,474 - utils.logger - INFO - Data for M&M.NS successfully inserted into the database.
-2025-12-01 18:53:55,474 - utils.logger - INFO - Scraping data for MARUTI.NS...
-2025-12-01 18:53:55,830 - utils.logger - INFO - Data for MARUTI.NS successfully inserted into the database.
-2025-12-01 18:53:55,831 - utils.logger - INFO - Scraping data for NESTLEIND.NS...
-2025-12-01 18:53:56,186 - utils.logger - INFO - Data for NESTLEIND.NS successfully inserted into the database.
-2025-12-01 18:53:56,186 - utils.logger - INFO - Scraping data for NTPC.NS...
-2025-12-01 18:53:56,471 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:53:56,472 - utils.logger - INFO - Scraping news for ticker: BRITANNIA.NS
-2025-12-01 18:53:56,543 - utils.logger - INFO - Data for NTPC.NS successfully inserted into the database.
-2025-12-01 18:53:56,543 - utils.logger - INFO - Scraping data for ONGC.NS...
-2025-12-01 18:53:56,928 - utils.logger - INFO - Data for ONGC.NS successfully inserted into the database.
-2025-12-01 18:53:56,928 - utils.logger - INFO - Scraping data for POWERGRID.NS...
-2025-12-01 18:53:57,279 - utils.logger - INFO - Data for POWERGRID.NS successfully inserted into the database.
-2025-12-01 18:53:57,280 - utils.logger - INFO - Scraping data for RELIANCE.NS...
-2025-12-01 18:53:57,660 - utils.logger - INFO - Data for RELIANCE.NS successfully inserted into the database.
-2025-12-01 18:53:57,660 - utils.logger - INFO - Scraping data for SBILIFE.NS...
-2025-12-01 18:53:57,870 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:53:57,871 - utils.logger - INFO - Scraping news for ticker: CIPLA.NS
-2025-12-01 18:53:58,042 - utils.logger - INFO - Data for SBILIFE.NS successfully inserted into the database.
-2025-12-01 18:53:58,042 - utils.logger - INFO - Scraping data for SBIN.NS...
-2025-12-01 18:53:58,410 - utils.logger - INFO - Data for SBIN.NS successfully inserted into the database.
-2025-12-01 18:53:58,411 - utils.logger - INFO - Scraping data for SHREECEM.NS...
-2025-12-01 18:53:58,764 - utils.logger - INFO - Data for SHREECEM.NS successfully inserted into the database.
-2025-12-01 18:53:58,764 - utils.logger - INFO - Scraping data for SHRIRAMFIN.NS...
-2025-12-01 18:53:59,125 - utils.logger - INFO - Data for SHRIRAMFIN.NS successfully inserted into the database.
-2025-12-01 18:53:59,125 - utils.logger - INFO - Scraping data for SUNPHARMA.NS...
-2025-12-01 18:53:59,286 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:53:59,287 - utils.logger - INFO - Scraping news for ticker: COALINDIA.NS
-2025-12-01 18:53:59,492 - utils.logger - INFO - Data for SUNPHARMA.NS successfully inserted into the database.
-2025-12-01 18:53:59,493 - utils.logger - INFO - Scraping data for TATACONSUM.NS...
-2025-12-01 18:53:59,854 - utils.logger - INFO - Data for TATACONSUM.NS successfully inserted into the database.
-2025-12-01 18:53:59,854 - utils.logger - INFO - Scraping data for TATAMOTORS.NS...
-2025-12-01 18:54:00,224 - utils.logger - INFO - Data for TATAMOTORS.NS successfully inserted into the database.
-2025-12-01 18:54:00,224 - utils.logger - INFO - Scraping data for TATASTEEL.NS...
-2025-12-01 18:54:00,593 - utils.logger - INFO - Data for TATASTEEL.NS successfully inserted into the database.
-2025-12-01 18:54:00,593 - utils.logger - INFO - Scraping data for TCS.NS...
-2025-12-01 18:54:00,960 - utils.logger - INFO - Data for TCS.NS successfully inserted into the database.
-2025-12-01 18:54:00,960 - utils.logger - INFO - Scraping data for TECHM.NS...
-2025-12-01 18:54:00,992 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:00,993 - utils.logger - INFO - Scraping news for ticker: DIVISLAB.NS
-2025-12-01 18:54:01,330 - utils.logger - INFO - Data for TECHM.NS successfully inserted into the database.
-2025-12-01 18:54:01,331 - utils.logger - INFO - Scraping data for TITAN.NS...
-2025-12-01 18:54:01,684 - utils.logger - INFO - Data for TITAN.NS successfully inserted into the database.
-2025-12-01 18:54:01,684 - utils.logger - INFO - Scraping data for ULTRACEMCO.NS...
-2025-12-01 18:54:02,054 - utils.logger - INFO - Data for ULTRACEMCO.NS successfully inserted into the database.
-2025-12-01 18:54:02,054 - utils.logger - INFO - Scraping data for WIPRO.NS...
-2025-12-01 18:54:02,239 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:02,240 - utils.logger - INFO - Scraping news for ticker: DRREDDY.NS
-2025-12-01 18:54:02,429 - utils.logger - INFO - Data for WIPRO.NS successfully inserted into the database.
-2025-12-01 18:54:03,507 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:03,509 - utils.logger - INFO - Scraping news for ticker: EICHERMOT.NS
-2025-12-01 18:54:04,778 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:04,780 - utils.logger - INFO - Scraping news for ticker: GRASIM.NS
-2025-12-01 18:54:06,173 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:06,175 - utils.logger - INFO - Scraping news for ticker: HCLTECH.NS
-2025-12-01 18:54:07,066 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:54:07,631 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:07,632 - utils.logger - INFO - Scraping news for ticker: HDFCBANK.NS
-2025-12-01 18:54:09,111 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:09,112 - utils.logger - INFO - Scraping news for ticker: HDFCLIFE.NS
-2025-12-01 18:54:10,466 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:10,467 - utils.logger - INFO - Scraping news for ticker: HEROMOTOCO.NS
-2025-12-01 18:54:10,635 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:54:10,642 - utils.logger - INFO - ---GENERATE RESULTS---
-2025-12-01 18:54:11,730 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:11,732 - utils.logger - INFO - Scraping news for ticker: HINDALCO.NS
-2025-12-01 18:54:13,088 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:13,089 - utils.logger - INFO - Scraping news for ticker: HINDUNILVR.NS
-2025-12-01 18:54:14,428 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:14,430 - utils.logger - INFO - Scraping news for ticker: ICICIBANK.NS
-2025-12-01 18:54:16,192 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:16,193 - utils.logger - INFO - Scraping news for ticker: INDUSINDBK.NS
-2025-12-01 18:54:17,448 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:17,449 - utils.logger - INFO - Scraping news for ticker: INFY.NS
-2025-12-01 18:54:18,809 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:18,810 - utils.logger - INFO - Scraping news for ticker: ITC.NS
-2025-12-01 18:54:20,577 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:20,579 - utils.logger - INFO - Scraping news for ticker: JSWSTEEL.NS
-2025-12-01 18:54:22,031 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:22,032 - utils.logger - INFO - Scraping news for ticker: KOTAKBANK.NS
-2025-12-01 18:54:23,421 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:23,422 - utils.logger - INFO - Scraping news for ticker: LT.NS
-2025-12-01 18:54:25,287 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:25,288 - utils.logger - INFO - Scraping news for ticker: M&M.NS
-2025-12-01 18:54:27,275 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:27,276 - utils.logger - INFO - Scraping news for ticker: MARUTI.NS
-2025-12-01 18:54:28,681 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:28,682 - utils.logger - INFO - Scraping news for ticker: NESTLEIND.NS
-2025-12-01 18:54:29,931 - utils.logger - INFO - Scraping news for ticker: NTPC.NS
-2025-12-01 18:54:31,359 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:31,361 - utils.logger - INFO - Scraping news for ticker: ONGC.NS
-2025-12-01 18:54:32,847 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:32,849 - utils.logger - INFO - Scraping news for ticker: POWERGRID.NS
-2025-12-01 18:54:34,226 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:34,227 - utils.logger - INFO - Scraping news for ticker: RELIANCE.NS
-2025-12-01 18:54:35,997 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:35,999 - utils.logger - INFO - Scraping news for ticker: SBILIFE.NS
-2025-12-01 18:54:37,334 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:37,336 - utils.logger - INFO - Scraping news for ticker: SBIN.NS
-2025-12-01 18:54:39,492 - utils.logger - INFO - Scraping news for ticker: SHREECEM.NS
-2025-12-01 18:54:40,811 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:40,813 - utils.logger - INFO - Scraping news for ticker: SHRIRAMFIN.NS
-2025-12-01 18:54:42,094 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:42,096 - utils.logger - INFO - Scraping news for ticker: SUNPHARMA.NS
-2025-12-01 18:54:43,431 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:43,432 - utils.logger - INFO - Scraping news for ticker: TATACONSUM.NS
-2025-12-01 18:54:44,690 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:44,692 - utils.logger - INFO - Scraping news for ticker: TATAMOTORS.NS
-2025-12-01 18:54:46,100 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:46,102 - utils.logger - INFO - Scraping news for ticker: TATASTEEL.NS
-2025-12-01 18:54:47,742 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:47,743 - utils.logger - INFO - Scraping news for ticker: TCS.NS
-2025-12-01 18:54:49,383 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:49,385 - utils.logger - INFO - Scraping news for ticker: TECHM.NS
-2025-12-01 18:54:51,031 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:51,033 - utils.logger - INFO - Scraping news for ticker: TITAN.NS
-2025-12-01 18:54:53,196 - utils.logger - INFO - Scraping news for ticker: ULTRACEMCO.NS
-2025-12-01 18:54:54,457 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:54,459 - utils.logger - INFO - Scraping news for ticker: WIPRO.NS
-2025-12-01 18:54:57,171 - utils.logger - INFO - Inserted 1 articles into MongoDB.
-2025-12-01 18:54:58,077 - utils.logger - INFO - Initialized Ollama Embeddings with model: nomic-embed-text
-2025-12-01 18:55:01,942 - utils.logger - INFO - Documents stored in Chroma.
-2025-12-01 18:55:01,944 - utils.logger - INFO - Marked 47 documents as synced.
-2025-12-01 18:55:01,944 - utils.logger - INFO - Documents processed, stored, and marked as synced.
-2025-12-01 18:55:01,944 - utils.logger - INFO - Scraping completed at 2025-12-01 18:55:01.944410. Next run in 24.00 hours.
-2025-12-01 18:55:38,796 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:55:42,195 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:56:24,857 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:56:28,426 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:56:49,112 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:56:52,446 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:57:14,018 - utils.logger - INFO - ---RETRIEVE---
-2025-12-01 18:57:16,242 - utils.logger - INFO - ---CHECK DOCUMENT RELEVANCE TO THE QUESTION---
-2025-12-01 18:57:18,876 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:57:19,003 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:57:19,128 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:57:19,256 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
-2025-12-01 18:57:19,257 - utils.logger - INFO - ---ASSESS GRADED DOCUMENTS---
-2025-12-01 18:57:19,257 - utils.logger - INFO - ---DECISION: NOT ALL DOCUMENTS ARE RELEVANT TO THE QUESTION, INCLUDE WEB SEARCH---
-2025-12-01 18:57:19,258 - utils.logger - INFO - ---WEB SEARCH---
-2025-12-01 18:57:22,400 - utils.logger - INFO - ---GENERATE---
-2025-12-01 18:59:48,649 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 18:59:52,238 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 18:59:52,242 - utils.logger - INFO - ---GENERATE RESULTS---
-2025-12-01 18:59:58,145 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 19:00:01,850 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 19:00:01,854 - utils.logger - INFO - ---GENERATE RESULTS---
-2025-12-01 19:00:12,561 - utils.logger - INFO - ---GENERATE SQL---
-2025-12-01 19:00:16,250 - utils.logger - INFO - ---SQL SEARCH---
-2025-12-01 19:00:16,254 - utils.logger - INFO - ---GENERATE RESULTS---
+2025-12-01 19:32:56,115 - utils.logger - INFO - ---SQL SEARCH---
+2025-12-01 21:40:01,564 - utils.logger - INFO - Initialized Ollama LLM with model: qwen2.5-coder:7b
+2025-12-01 21:40:02,199 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
+2025-12-01 21:40:03,498 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
+2025-12-01 21:40:05,635 - utils.logger - INFO - Initialized Tavily Search
+2025-12-01 21:40:05,661 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
+2025-12-01 21:40:08,199 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
+2025-12-01 21:40:08,214 - utils.logger - INFO - Starting scraping at 2025-12-01 21:40:08.214772
+2025-12-01 21:40:08,378 - utils.logger - INFO - PostgreSQL connection established.
+2025-12-01 21:40:08,456 - utils.logger - INFO - Scraping news for ticker: ADANIENT.NS
+2025-12-01 21:40:08,457 - utils.logger - INFO - Scraping data for ADANIENT.NS...
+2025-12-01 21:40:10,226 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:10,229 - utils.logger - INFO - Scraping news for ticker: ADANIPORTS.NS
+2025-12-01 21:40:11,699 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:11,700 - utils.logger - INFO - Scraping news for ticker: APOLLOHOSP.NS
+2025-12-01 21:40:13,040 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:13,041 - utils.logger - INFO - Scraping news for ticker: ASIANPAINT.NS
+2025-12-01 21:40:14,445 - utils.logger - INFO - Data for ADANIENT.NS successfully inserted into the database.
+2025-12-01 21:40:14,446 - utils.logger - INFO - Scraping data for ADANIPORTS.NS...
+2025-12-01 21:40:14,613 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:14,614 - utils.logger - INFO - Scraping news for ticker: AXISBANK.NS
+2025-12-01 21:40:14,812 - utils.logger - INFO - Data for ADANIPORTS.NS successfully inserted into the database.
+2025-12-01 21:40:14,812 - utils.logger - INFO - Scraping data for APOLLOHOSP.NS...
+2025-12-01 21:40:15,189 - utils.logger - INFO - Data for APOLLOHOSP.NS successfully inserted into the database.
+2025-12-01 21:40:15,190 - utils.logger - INFO - Scraping data for ASIANPAINT.NS...
+2025-12-01 21:40:15,575 - utils.logger - INFO - Data for ASIANPAINT.NS successfully inserted into the database.
+2025-12-01 21:40:15,576 - utils.logger - INFO - Scraping data for AXISBANK.NS...
+2025-12-01 21:40:15,949 - utils.logger - INFO - Data for AXISBANK.NS successfully inserted into the database.
+2025-12-01 21:40:15,950 - utils.logger - INFO - Scraping data for BAJAJ-AUTO.NS...
+2025-12-01 21:40:16,368 - utils.logger - INFO - Data for BAJAJ-AUTO.NS successfully inserted into the database.
+2025-12-01 21:40:16,368 - utils.logger - INFO - Scraping data for BAJFINANCE.NS...
+2025-12-01 21:40:16,414 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:16,415 - utils.logger - INFO - Scraping news for ticker: BAJAJ-AUTO.NS
+2025-12-01 21:40:16,790 - utils.logger - INFO - Data for BAJFINANCE.NS successfully inserted into the database.
+2025-12-01 21:40:16,791 - utils.logger - INFO - Scraping data for BAJAJFINSV.NS...
+2025-12-01 21:40:17,150 - utils.logger - INFO - Data for BAJAJFINSV.NS successfully inserted into the database.
+2025-12-01 21:40:17,150 - utils.logger - INFO - Scraping data for BHARTIARTL.NS...
+2025-12-01 21:40:17,532 - utils.logger - INFO - Data for BHARTIARTL.NS successfully inserted into the database.
+2025-12-01 21:40:17,532 - utils.logger - INFO - Scraping data for BPCL.NS...
+2025-12-01 21:40:17,923 - utils.logger - INFO - Data for BPCL.NS successfully inserted into the database.
+2025-12-01 21:40:17,924 - utils.logger - INFO - Scraping data for BRITANNIA.NS...
+2025-12-01 21:40:18,355 - utils.logger - INFO - Data for BRITANNIA.NS successfully inserted into the database.
+2025-12-01 21:40:18,355 - utils.logger - INFO - Scraping data for CIPLA.NS...
+2025-12-01 21:40:18,430 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:18,431 - utils.logger - INFO - Scraping news for ticker: BAJFINANCE.NS
+2025-12-01 21:40:18,734 - utils.logger - INFO - Data for CIPLA.NS successfully inserted into the database.
+2025-12-01 21:40:18,734 - utils.logger - INFO - Scraping data for COALINDIA.NS...
+2025-12-01 21:40:19,105 - utils.logger - INFO - Data for COALINDIA.NS successfully inserted into the database.
+2025-12-01 21:40:19,105 - utils.logger - INFO - Scraping data for DIVISLAB.NS...
+2025-12-01 21:40:19,471 - utils.logger - INFO - Data for DIVISLAB.NS successfully inserted into the database.
+2025-12-01 21:40:19,471 - utils.logger - INFO - Scraping data for DRREDDY.NS...
+2025-12-01 21:40:19,785 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:19,786 - utils.logger - INFO - Scraping news for ticker: BAJAJFINSV.NS
+2025-12-01 21:40:19,850 - utils.logger - INFO - Data for DRREDDY.NS successfully inserted into the database.
+2025-12-01 21:40:19,850 - utils.logger - INFO - Scraping data for EICHERMOT.NS...
+2025-12-01 21:40:20,228 - utils.logger - INFO - Data for EICHERMOT.NS successfully inserted into the database.
+2025-12-01 21:40:20,228 - utils.logger - INFO - Scraping data for GRASIM.NS...
+2025-12-01 21:40:20,610 - utils.logger - INFO - Data for GRASIM.NS successfully inserted into the database.
+2025-12-01 21:40:20,610 - utils.logger - INFO - Scraping data for HCLTECH.NS...
+2025-12-01 21:40:20,999 - utils.logger - INFO - Data for HCLTECH.NS successfully inserted into the database.
+2025-12-01 21:40:20,999 - utils.logger - INFO - Scraping data for HDFCBANK.NS...
+2025-12-01 21:40:21,139 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:21,140 - utils.logger - INFO - Scraping news for ticker: BHARTIARTL.NS
+2025-12-01 21:40:21,372 - utils.logger - INFO - Data for HDFCBANK.NS successfully inserted into the database.
+2025-12-01 21:40:21,372 - utils.logger - INFO - Scraping data for HDFCLIFE.NS...
+2025-12-01 21:40:21,732 - utils.logger - INFO - Data for HDFCLIFE.NS successfully inserted into the database.
+2025-12-01 21:40:21,732 - utils.logger - INFO - Scraping data for HEROMOTOCO.NS...
+2025-12-01 21:40:22,106 - utils.logger - INFO - Data for HEROMOTOCO.NS successfully inserted into the database.
+2025-12-01 21:40:22,106 - utils.logger - INFO - Scraping data for HINDALCO.NS...
+2025-12-01 21:40:22,481 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:22,483 - utils.logger - INFO - Scraping news for ticker: BPCL.NS
+2025-12-01 21:40:22,490 - utils.logger - INFO - Data for HINDALCO.NS successfully inserted into the database.
+2025-12-01 21:40:22,491 - utils.logger - INFO - Scraping data for HINDUNILVR.NS...
+2025-12-01 21:40:22,876 - utils.logger - INFO - Data for HINDUNILVR.NS successfully inserted into the database.
+2025-12-01 21:40:22,876 - utils.logger - INFO - Scraping data for ICICIBANK.NS...
+2025-12-01 21:40:23,265 - utils.logger - INFO - Data for ICICIBANK.NS successfully inserted into the database.
+2025-12-01 21:40:23,266 - utils.logger - INFO - Scraping data for INDUSINDBK.NS...
+2025-12-01 21:40:23,640 - utils.logger - INFO - Data for INDUSINDBK.NS successfully inserted into the database.
+2025-12-01 21:40:23,640 - utils.logger - INFO - Scraping data for INFY.NS...
+2025-12-01 21:40:23,976 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:23,978 - utils.logger - INFO - Scraping news for ticker: BRITANNIA.NS
+2025-12-01 21:40:24,085 - utils.logger - INFO - Data for INFY.NS successfully inserted into the database.
+2025-12-01 21:40:24,085 - utils.logger - INFO - Scraping data for ITC.NS...
+2025-12-01 21:40:24,524 - utils.logger - INFO - Data for ITC.NS successfully inserted into the database.
+2025-12-01 21:40:24,525 - utils.logger - INFO - Scraping data for JSWSTEEL.NS...
+2025-12-01 21:40:24,909 - utils.logger - INFO - Data for JSWSTEEL.NS successfully inserted into the database.
+2025-12-01 21:40:24,910 - utils.logger - INFO - Scraping data for KOTAKBANK.NS...
+2025-12-01 21:40:25,312 - utils.logger - INFO - Data for KOTAKBANK.NS successfully inserted into the database.
+2025-12-01 21:40:25,312 - utils.logger - INFO - Scraping data for LT.NS...
+2025-12-01 21:40:25,501 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:25,503 - utils.logger - INFO - Scraping news for ticker: CIPLA.NS
+2025-12-01 21:40:25,692 - utils.logger - INFO - Data for LT.NS successfully inserted into the database.
+2025-12-01 21:40:25,693 - utils.logger - INFO - Scraping data for M&M.NS...
+2025-12-01 21:40:26,084 - utils.logger - INFO - Data for M&M.NS successfully inserted into the database.
+2025-12-01 21:40:26,085 - utils.logger - INFO - Scraping data for MARUTI.NS...
+2025-12-01 21:40:26,465 - utils.logger - INFO - Data for MARUTI.NS successfully inserted into the database.
+2025-12-01 21:40:26,465 - utils.logger - INFO - Scraping data for NESTLEIND.NS...
+2025-12-01 21:40:26,844 - utils.logger - INFO - Data for NESTLEIND.NS successfully inserted into the database.
+2025-12-01 21:40:26,844 - utils.logger - INFO - Scraping data for NTPC.NS...
+2025-12-01 21:40:27,253 - utils.logger - INFO - Data for NTPC.NS successfully inserted into the database.
+2025-12-01 21:40:27,254 - utils.logger - INFO - Scraping data for ONGC.NS...
+2025-12-01 21:40:27,274 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:27,277 - utils.logger - INFO - Scraping news for ticker: COALINDIA.NS
+2025-12-01 21:40:27,674 - utils.logger - INFO - Data for ONGC.NS successfully inserted into the database.
+2025-12-01 21:40:27,675 - utils.logger - INFO - Scraping data for POWERGRID.NS...
+2025-12-01 21:40:28,046 - utils.logger - INFO - Data for POWERGRID.NS successfully inserted into the database.
+2025-12-01 21:40:28,046 - utils.logger - INFO - Scraping data for RELIANCE.NS...
+2025-12-01 21:40:28,436 - utils.logger - INFO - Data for RELIANCE.NS successfully inserted into the database.
+2025-12-01 21:40:28,436 - utils.logger - INFO - Scraping data for SBILIFE.NS...
+2025-12-01 21:40:28,800 - utils.logger - INFO - Data for SBILIFE.NS successfully inserted into the database.
+2025-12-01 21:40:28,800 - utils.logger - INFO - Scraping data for SBIN.NS...
+2025-12-01 21:40:29,186 - utils.logger - INFO - Data for SBIN.NS successfully inserted into the database.
+2025-12-01 21:40:29,186 - utils.logger - INFO - Scraping data for SHREECEM.NS...
+2025-12-01 21:40:29,207 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:29,209 - utils.logger - INFO - Scraping news for ticker: DIVISLAB.NS
+2025-12-01 21:40:29,573 - utils.logger - INFO - Data for SHREECEM.NS successfully inserted into the database.
+2025-12-01 21:40:29,573 - utils.logger - INFO - Scraping data for SHRIRAMFIN.NS...
+2025-12-01 21:40:29,967 - utils.logger - INFO - Data for SHRIRAMFIN.NS successfully inserted into the database.
+2025-12-01 21:40:29,967 - utils.logger - INFO - Scraping data for SUNPHARMA.NS...
+2025-12-01 21:40:30,368 - utils.logger - INFO - Data for SUNPHARMA.NS successfully inserted into the database.
+2025-12-01 21:40:30,368 - utils.logger - INFO - Scraping data for TATACONSUM.NS...
+2025-12-01 21:40:30,748 - utils.logger - INFO - Data for TATACONSUM.NS successfully inserted into the database.
+2025-12-01 21:40:30,748 - utils.logger - INFO - Scraping data for TATAMOTORS.NS...
+2025-12-01 21:40:30,803 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:30,804 - utils.logger - INFO - Scraping news for ticker: DRREDDY.NS
+2025-12-01 21:40:31,157 - utils.logger - INFO - Data for TATAMOTORS.NS successfully inserted into the database.
+2025-12-01 21:40:31,157 - utils.logger - INFO - Scraping data for TATASTEEL.NS...
+2025-12-01 21:40:31,543 - utils.logger - INFO - Data for TATASTEEL.NS successfully inserted into the database.
+2025-12-01 21:40:31,543 - utils.logger - INFO - Scraping data for TCS.NS...
+2025-12-01 21:40:31,923 - utils.logger - INFO - Data for TCS.NS successfully inserted into the database.
+2025-12-01 21:40:31,923 - utils.logger - INFO - Scraping data for TECHM.NS...
+2025-12-01 21:40:32,237 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:32,239 - utils.logger - INFO - Scraping news for ticker: EICHERMOT.NS
+2025-12-01 21:40:32,297 - utils.logger - INFO - Data for TECHM.NS successfully inserted into the database.
+2025-12-01 21:40:32,298 - utils.logger - INFO - Scraping data for TITAN.NS...
+2025-12-01 21:40:32,674 - utils.logger - INFO - Data for TITAN.NS successfully inserted into the database.
+2025-12-01 21:40:32,674 - utils.logger - INFO - Scraping data for ULTRACEMCO.NS...
+2025-12-01 21:40:33,040 - utils.logger - INFO - Data for ULTRACEMCO.NS successfully inserted into the database.
+2025-12-01 21:40:33,040 - utils.logger - INFO - Scraping data for WIPRO.NS...
+2025-12-01 21:40:33,497 - utils.logger - INFO - Data for WIPRO.NS successfully inserted into the database.
+2025-12-01 21:40:33,597 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:33,600 - utils.logger - INFO - Scraping news for ticker: GRASIM.NS
+2025-12-01 21:40:35,132 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:35,134 - utils.logger - INFO - Scraping news for ticker: HCLTECH.NS
+2025-12-01 21:40:36,651 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:36,653 - utils.logger - INFO - Scraping news for ticker: HDFCBANK.NS
+2025-12-01 21:40:38,518 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:38,520 - utils.logger - INFO - Scraping news for ticker: HDFCLIFE.NS
+2025-12-01 21:40:40,020 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:40,022 - utils.logger - INFO - Scraping news for ticker: HEROMOTOCO.NS
+2025-12-01 21:40:41,471 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:41,472 - utils.logger - INFO - Scraping news for ticker: HINDALCO.NS
+2025-12-01 21:40:43,032 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:43,034 - utils.logger - INFO - Scraping news for ticker: HINDUNILVR.NS
+2025-12-01 21:40:44,450 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:44,452 - utils.logger - INFO - Scraping news for ticker: ICICIBANK.NS
+2025-12-01 21:40:46,275 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:46,276 - utils.logger - INFO - Scraping news for ticker: INDUSINDBK.NS
+2025-12-01 21:40:47,639 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:47,640 - utils.logger - INFO - Scraping news for ticker: INFY.NS
+2025-12-01 21:40:49,190 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:49,192 - utils.logger - INFO - Scraping news for ticker: ITC.NS
+2025-12-01 21:40:51,046 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:51,049 - utils.logger - INFO - Scraping news for ticker: JSWSTEEL.NS
+2025-12-01 21:40:52,537 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:52,539 - utils.logger - INFO - Scraping news for ticker: KOTAKBANK.NS
+2025-12-01 21:40:54,011 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:54,013 - utils.logger - INFO - Scraping news for ticker: LT.NS
+2025-12-01 21:40:56,168 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:56,169 - utils.logger - INFO - Scraping news for ticker: M&M.NS
+2025-12-01 21:40:58,293 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:58,295 - utils.logger - INFO - Scraping news for ticker: MARUTI.NS
+2025-12-01 21:40:59,899 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:40:59,901 - utils.logger - INFO - Scraping news for ticker: NESTLEIND.NS
+2025-12-01 21:41:01,275 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:01,278 - utils.logger - INFO - Scraping news for ticker: NTPC.NS
+2025-12-01 21:41:02,996 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:02,998 - utils.logger - INFO - Scraping news for ticker: ONGC.NS
+2025-12-01 21:41:04,596 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:04,598 - utils.logger - INFO - Scraping news for ticker: POWERGRID.NS
+2025-12-01 21:41:06,199 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:06,200 - utils.logger - INFO - Scraping news for ticker: RELIANCE.NS
+2025-12-01 21:41:08,002 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:08,004 - utils.logger - INFO - Scraping news for ticker: SBILIFE.NS
+2025-12-01 21:41:09,727 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:09,729 - utils.logger - INFO - Scraping news for ticker: SBIN.NS
+2025-12-01 21:41:11,128 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:11,130 - utils.logger - INFO - Scraping news for ticker: SHREECEM.NS
+2025-12-01 21:41:12,543 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:12,545 - utils.logger - INFO - Scraping news for ticker: SHRIRAMFIN.NS
+2025-12-01 21:41:13,913 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:13,914 - utils.logger - INFO - Scraping news for ticker: SUNPHARMA.NS
+2025-12-01 21:41:15,406 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:15,408 - utils.logger - INFO - Scraping news for ticker: TATACONSUM.NS
+2025-12-01 21:41:16,849 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:16,851 - utils.logger - INFO - Scraping news for ticker: TATAMOTORS.NS
+2025-12-01 21:41:18,746 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:18,747 - utils.logger - INFO - Scraping news for ticker: TATASTEEL.NS
+2025-12-01 21:41:20,592 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:20,594 - utils.logger - INFO - Scraping news for ticker: TCS.NS
+2025-12-01 21:41:22,404 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:22,406 - utils.logger - INFO - Scraping news for ticker: TECHM.NS
+2025-12-01 21:41:24,130 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:24,131 - utils.logger - INFO - Scraping news for ticker: TITAN.NS
+2025-12-01 21:41:25,939 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:25,941 - utils.logger - INFO - Scraping news for ticker: ULTRACEMCO.NS
+2025-12-01 21:41:27,236 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:27,237 - utils.logger - INFO - Scraping news for ticker: WIPRO.NS
+2025-12-01 21:41:29,347 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:41:31,037 - utils.logger - INFO - Initialized Ollama Embeddings with model: nomic-embed-text
+2025-12-01 21:41:35,403 - utils.logger - INFO - Documents stored in Chroma.
+2025-12-01 21:41:35,407 - utils.logger - INFO - Marked 50 documents as synced.
+2025-12-01 21:41:35,407 - utils.logger - INFO - Documents processed, stored, and marked as synced.
+2025-12-01 21:41:35,408 - utils.logger - INFO - Scraping completed at 2025-12-01 21:41:35.408322. Next run in 24.00 hours.
+2025-12-01 21:42:01,795 - utils.logger - INFO - ---RETRIEVE---
+2025-12-01 21:42:03,990 - utils.logger - INFO - ---CHECK DOCUMENT RELEVANCE TO THE QUESTION---
+2025-12-01 21:42:13,012 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
+2025-12-01 21:42:13,152 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
+2025-12-01 21:42:13,292 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
+2025-12-01 21:42:13,433 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
+2025-12-01 21:42:13,434 - utils.logger - INFO - ---ASSESS GRADED DOCUMENTS---
+2025-12-01 21:42:13,434 - utils.logger - INFO - ---DECISION: NOT ALL DOCUMENTS ARE RELEVANT TO THE QUESTION, INCLUDE WEB SEARCH---
+2025-12-01 21:42:13,435 - utils.logger - INFO - ---WEB SEARCH---
+2025-12-01 21:42:16,728 - utils.logger - INFO - ---GENERATE---
+2025-12-01 21:42:22,539 - utils.logger - INFO - ---CHECK HALLUCINATIONS---
+2025-12-01 21:42:24,061 - utils.logger - INFO - ---DECISION: GENERATION IS GROUNDED IN DOCUMENTS---
+2025-12-01 21:42:41,843 - utils.logger - INFO - ---RETRIEVE---
+2025-12-01 21:42:45,261 - utils.logger - INFO - ---CHECK DOCUMENT RELEVANCE TO THE QUESTION---
+2025-12-01 21:42:47,511 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
+2025-12-01 21:42:47,645 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
+2025-12-01 21:42:47,783 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
+2025-12-01 21:42:47,918 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
+2025-12-01 21:42:47,919 - utils.logger - INFO - ---ASSESS GRADED DOCUMENTS---
+2025-12-01 21:42:47,920 - utils.logger - INFO - ---DECISION: NOT ALL DOCUMENTS ARE RELEVANT TO THE QUESTION, INCLUDE WEB SEARCH---
+2025-12-01 21:42:47,921 - utils.logger - INFO - ---WEB SEARCH---
+2025-12-01 21:42:49,226 - utils.logger - INFO - ---GENERATE---
+2025-12-01 21:42:54,865 - utils.logger - INFO - ---CHECK HALLUCINATIONS---
+2025-12-01 21:42:56,403 - utils.logger - INFO - ---DECISION: GENERATION IS GROUNDED IN DOCUMENTS---
+2025-12-01 21:47:22,936 - utils.logger - INFO - Initialized Ollama LLM with model: qwen2.5-coder:7b
+2025-12-01 21:47:23,660 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
+2025-12-01 21:47:25,306 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
+2025-12-01 21:47:27,331 - utils.logger - INFO - Initialized Tavily Search
+2025-12-01 21:47:27,338 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
+2025-12-01 21:47:29,075 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
+2025-12-01 21:47:29,082 - utils.logger - INFO - Starting scraping at 2025-12-01 21:47:29.082924
+2025-12-01 21:47:29,149 - utils.logger - INFO - PostgreSQL connection established.
+2025-12-01 21:47:29,163 - utils.logger - INFO - Scraping news for ticker: ADANIENT.NS
+2025-12-01 21:47:29,164 - utils.logger - INFO - Scraping data for ADANIENT.NS...
+2025-12-01 21:47:30,968 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:30,974 - utils.logger - INFO - Scraping news for ticker: ADANIPORTS.NS
+2025-12-01 21:47:31,699 - utils.logger - INFO - Data for ADANIENT.NS successfully inserted into the database.
+2025-12-01 21:47:31,699 - utils.logger - INFO - Scraping data for ADANIPORTS.NS...
+2025-12-01 21:47:32,081 - utils.logger - INFO - Data for ADANIPORTS.NS successfully inserted into the database.
+2025-12-01 21:47:32,081 - utils.logger - INFO - Scraping data for APOLLOHOSP.NS...
+2025-12-01 21:47:32,459 - utils.logger - INFO - Data for APOLLOHOSP.NS successfully inserted into the database.
+2025-12-01 21:47:32,459 - utils.logger - INFO - Scraping data for ASIANPAINT.NS...
+2025-12-01 21:47:32,601 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:32,602 - utils.logger - INFO - Scraping news for ticker: APOLLOHOSP.NS
+2025-12-01 21:47:32,849 - utils.logger - INFO - Data for ASIANPAINT.NS successfully inserted into the database.
+2025-12-01 21:47:32,849 - utils.logger - INFO - Scraping data for AXISBANK.NS...
+2025-12-01 21:47:33,229 - utils.logger - INFO - Data for AXISBANK.NS successfully inserted into the database.
+2025-12-01 21:47:33,229 - utils.logger - INFO - Scraping data for BAJAJ-AUTO.NS...
+2025-12-01 21:47:33,604 - utils.logger - INFO - Data for BAJAJ-AUTO.NS successfully inserted into the database.
+2025-12-01 21:47:33,605 - utils.logger - INFO - Scraping data for BAJFINANCE.NS...
+2025-12-01 21:47:33,959 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:33,960 - utils.logger - INFO - Scraping news for ticker: ASIANPAINT.NS
+2025-12-01 21:47:33,995 - utils.logger - INFO - Data for BAJFINANCE.NS successfully inserted into the database.
+2025-12-01 21:47:33,995 - utils.logger - INFO - Scraping data for BAJAJFINSV.NS...
+2025-12-01 21:47:34,412 - utils.logger - INFO - Data for BAJAJFINSV.NS successfully inserted into the database.
+2025-12-01 21:47:34,412 - utils.logger - INFO - Scraping data for BHARTIARTL.NS...
+2025-12-01 21:47:34,833 - utils.logger - INFO - Data for BHARTIARTL.NS successfully inserted into the database.
+2025-12-01 21:47:34,833 - utils.logger - INFO - Scraping data for BPCL.NS...
+2025-12-01 21:47:35,211 - utils.logger - INFO - Data for BPCL.NS successfully inserted into the database.
+2025-12-01 21:47:35,211 - utils.logger - INFO - Scraping data for BRITANNIA.NS...
+2025-12-01 21:47:35,371 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:35,372 - utils.logger - INFO - Scraping news for ticker: AXISBANK.NS
+2025-12-01 21:47:35,598 - utils.logger - INFO - Data for BRITANNIA.NS successfully inserted into the database.
+2025-12-01 21:47:35,598 - utils.logger - INFO - Scraping data for CIPLA.NS...
+2025-12-01 21:47:36,046 - utils.logger - INFO - Data for CIPLA.NS successfully inserted into the database.
+2025-12-01 21:47:36,047 - utils.logger - INFO - Scraping data for COALINDIA.NS...
+2025-12-01 21:47:36,426 - utils.logger - INFO - Data for COALINDIA.NS successfully inserted into the database.
+2025-12-01 21:47:36,427 - utils.logger - INFO - Scraping data for DIVISLAB.NS...
+2025-12-01 21:47:36,796 - utils.logger - INFO - Data for DIVISLAB.NS successfully inserted into the database.
+2025-12-01 21:47:36,796 - utils.logger - INFO - Scraping data for DRREDDY.NS...
+2025-12-01 21:47:37,181 - utils.logger - INFO - Data for DRREDDY.NS successfully inserted into the database.
+2025-12-01 21:47:37,181 - utils.logger - INFO - Scraping data for EICHERMOT.NS...
+2025-12-01 21:47:37,596 - utils.logger - INFO - Data for EICHERMOT.NS successfully inserted into the database.
+2025-12-01 21:47:37,597 - utils.logger - INFO - Scraping data for GRASIM.NS...
+2025-12-01 21:47:38,021 - utils.logger - INFO - Data for GRASIM.NS successfully inserted into the database.
+2025-12-01 21:47:38,022 - utils.logger - INFO - Scraping data for HCLTECH.NS...
+2025-12-01 21:47:38,123 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:38,124 - utils.logger - INFO - Scraping news for ticker: BAJAJ-AUTO.NS
+2025-12-01 21:47:38,397 - utils.logger - INFO - Data for HCLTECH.NS successfully inserted into the database.
+2025-12-01 21:47:38,398 - utils.logger - INFO - Scraping data for HDFCBANK.NS...
+2025-12-01 21:47:38,780 - utils.logger - INFO - Data for HDFCBANK.NS successfully inserted into the database.
+2025-12-01 21:47:38,780 - utils.logger - INFO - Scraping data for HDFCLIFE.NS...
+2025-12-01 21:47:39,130 - utils.logger - INFO - Data for HDFCLIFE.NS successfully inserted into the database.
+2025-12-01 21:47:39,130 - utils.logger - INFO - Scraping data for HEROMOTOCO.NS...
+2025-12-01 21:47:39,503 - utils.logger - INFO - Data for HEROMOTOCO.NS successfully inserted into the database.
+2025-12-01 21:47:39,503 - utils.logger - INFO - Scraping data for HINDALCO.NS...
+2025-12-01 21:47:39,895 - utils.logger - INFO - Data for HINDALCO.NS successfully inserted into the database.
+2025-12-01 21:47:39,896 - utils.logger - INFO - Scraping data for HINDUNILVR.NS...
+2025-12-01 21:47:40,155 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:40,157 - utils.logger - INFO - Scraping news for ticker: BAJFINANCE.NS
+2025-12-01 21:47:40,274 - utils.logger - INFO - Data for HINDUNILVR.NS successfully inserted into the database.
+2025-12-01 21:47:40,275 - utils.logger - INFO - Scraping data for ICICIBANK.NS...
+2025-12-01 21:47:40,652 - utils.logger - INFO - Data for ICICIBANK.NS successfully inserted into the database.
+2025-12-01 21:47:40,653 - utils.logger - INFO - Scraping data for INDUSINDBK.NS...
+2025-12-01 21:47:41,018 - utils.logger - INFO - Data for INDUSINDBK.NS successfully inserted into the database.
+2025-12-01 21:47:41,019 - utils.logger - INFO - Scraping data for INFY.NS...
+2025-12-01 21:47:41,423 - utils.logger - INFO - Data for INFY.NS successfully inserted into the database.
+2025-12-01 21:47:41,424 - utils.logger - INFO - Scraping data for ITC.NS...
+2025-12-01 21:47:41,476 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:41,478 - utils.logger - INFO - Scraping news for ticker: BAJAJFINSV.NS
+2025-12-01 21:47:41,816 - utils.logger - INFO - Data for ITC.NS successfully inserted into the database.
+2025-12-01 21:47:41,816 - utils.logger - INFO - Scraping data for JSWSTEEL.NS...
+2025-12-01 21:47:42,200 - utils.logger - INFO - Data for JSWSTEEL.NS successfully inserted into the database.
+2025-12-01 21:47:42,201 - utils.logger - INFO - Scraping data for KOTAKBANK.NS...
+2025-12-01 21:47:42,585 - utils.logger - INFO - Data for KOTAKBANK.NS successfully inserted into the database.
+2025-12-01 21:47:42,585 - utils.logger - INFO - Scraping data for LT.NS...
+2025-12-01 21:47:42,860 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:42,862 - utils.logger - INFO - Scraping news for ticker: BHARTIARTL.NS
+2025-12-01 21:47:42,978 - utils.logger - INFO - Data for LT.NS successfully inserted into the database.
+2025-12-01 21:47:42,978 - utils.logger - INFO - Scraping data for M&M.NS...
+2025-12-01 21:47:43,347 - utils.logger - INFO - Data for M&M.NS successfully inserted into the database.
+2025-12-01 21:47:43,347 - utils.logger - INFO - Scraping data for MARUTI.NS...
+2025-12-01 21:47:43,711 - utils.logger - INFO - Data for MARUTI.NS successfully inserted into the database.
+2025-12-01 21:47:43,712 - utils.logger - INFO - Scraping data for NESTLEIND.NS...
+2025-12-01 21:47:44,074 - utils.logger - INFO - Data for NESTLEIND.NS successfully inserted into the database.
+2025-12-01 21:47:44,075 - utils.logger - INFO - Scraping data for NTPC.NS...
+2025-12-01 21:47:44,157 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:44,158 - utils.logger - INFO - Scraping news for ticker: BPCL.NS
+2025-12-01 21:47:44,501 - utils.logger - INFO - Data for NTPC.NS successfully inserted into the database.
+2025-12-01 21:47:44,502 - utils.logger - INFO - Scraping data for ONGC.NS...
+2025-12-01 21:47:44,883 - utils.logger - INFO - Data for ONGC.NS successfully inserted into the database.
+2025-12-01 21:47:44,883 - utils.logger - INFO - Scraping data for POWERGRID.NS...
+2025-12-01 21:47:45,263 - utils.logger - INFO - Data for POWERGRID.NS successfully inserted into the database.
+2025-12-01 21:47:45,263 - utils.logger - INFO - Scraping data for RELIANCE.NS...
+2025-12-01 21:47:45,653 - utils.logger - INFO - Data for RELIANCE.NS successfully inserted into the database.
+2025-12-01 21:47:45,653 - utils.logger - INFO - Scraping data for SBILIFE.NS...
+2025-12-01 21:47:45,666 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:45,668 - utils.logger - INFO - Scraping news for ticker: BRITANNIA.NS
+2025-12-01 21:47:46,010 - utils.logger - INFO - Data for SBILIFE.NS successfully inserted into the database.
+2025-12-01 21:47:46,011 - utils.logger - INFO - Scraping data for SBIN.NS...
+2025-12-01 21:47:46,408 - utils.logger - INFO - Data for SBIN.NS successfully inserted into the database.
+2025-12-01 21:47:46,408 - utils.logger - INFO - Scraping data for SHREECEM.NS...
+2025-12-01 21:47:46,787 - utils.logger - INFO - Data for SHREECEM.NS successfully inserted into the database.
+2025-12-01 21:47:46,787 - utils.logger - INFO - Scraping data for SHRIRAMFIN.NS...
+2025-12-01 21:47:47,168 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:47,169 - utils.logger - INFO - Scraping news for ticker: CIPLA.NS
+2025-12-01 21:47:47,215 - utils.logger - INFO - Data for SHRIRAMFIN.NS successfully inserted into the database.
+2025-12-01 21:47:47,215 - utils.logger - INFO - Scraping data for SUNPHARMA.NS...
+2025-12-01 21:47:47,590 - utils.logger - INFO - Data for SUNPHARMA.NS successfully inserted into the database.
+2025-12-01 21:47:47,590 - utils.logger - INFO - Scraping data for TATACONSUM.NS...
+2025-12-01 21:47:47,992 - utils.logger - INFO - Data for TATACONSUM.NS successfully inserted into the database.
+2025-12-01 21:47:47,993 - utils.logger - INFO - Scraping data for TATAMOTORS.NS...
+2025-12-01 21:47:48,401 - utils.logger - INFO - Data for TATAMOTORS.NS successfully inserted into the database.
+2025-12-01 21:47:48,401 - utils.logger - INFO - Scraping data for TATASTEEL.NS...
+2025-12-01 21:47:48,694 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:48,696 - utils.logger - INFO - Scraping news for ticker: COALINDIA.NS
+2025-12-01 21:47:48,801 - utils.logger - INFO - Data for TATASTEEL.NS successfully inserted into the database.
+2025-12-01 21:47:48,801 - utils.logger - INFO - Scraping data for TCS.NS...
+2025-12-01 21:47:49,173 - utils.logger - INFO - Data for TCS.NS successfully inserted into the database.
+2025-12-01 21:47:49,174 - utils.logger - INFO - Scraping data for TECHM.NS...
+2025-12-01 21:47:49,558 - utils.logger - INFO - Data for TECHM.NS successfully inserted into the database.
+2025-12-01 21:47:49,558 - utils.logger - INFO - Scraping data for TITAN.NS...
+2025-12-01 21:47:50,021 - utils.logger - INFO - Data for TITAN.NS successfully inserted into the database.
+2025-12-01 21:47:50,021 - utils.logger - INFO - Scraping data for ULTRACEMCO.NS...
+2025-12-01 21:47:50,401 - utils.logger - INFO - Data for ULTRACEMCO.NS successfully inserted into the database.
+2025-12-01 21:47:50,401 - utils.logger - INFO - Scraping data for WIPRO.NS...
+2025-12-01 21:47:50,593 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:50,595 - utils.logger - INFO - Scraping news for ticker: DIVISLAB.NS
+2025-12-01 21:47:50,781 - utils.logger - INFO - Data for WIPRO.NS successfully inserted into the database.
+2025-12-01 21:47:51,937 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:51,942 - utils.logger - INFO - Scraping news for ticker: DRREDDY.NS
+2025-12-01 21:47:54,228 - utils.logger - INFO - Scraping news for ticker: EICHERMOT.NS
+2025-12-01 21:47:55,555 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:55,557 - utils.logger - INFO - Scraping news for ticker: GRASIM.NS
+2025-12-01 21:47:57,014 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:57,018 - utils.logger - INFO - Scraping news for ticker: HCLTECH.NS
+2025-12-01 21:47:58,646 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:47:58,648 - utils.logger - INFO - Scraping news for ticker: HDFCBANK.NS
+2025-12-01 21:48:00,308 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:00,310 - utils.logger - INFO - Scraping news for ticker: HDFCLIFE.NS
+2025-12-01 21:48:01,735 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:01,738 - utils.logger - INFO - Scraping news for ticker: HEROMOTOCO.NS
+2025-12-01 21:48:03,302 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:03,305 - utils.logger - INFO - Scraping news for ticker: HINDALCO.NS
+2025-12-01 21:48:05,040 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:05,042 - utils.logger - INFO - Scraping news for ticker: HINDUNILVR.NS
+2025-12-01 21:48:06,482 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:06,483 - utils.logger - INFO - Scraping news for ticker: ICICIBANK.NS
+2025-12-01 21:48:08,321 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:08,323 - utils.logger - INFO - Scraping news for ticker: INDUSINDBK.NS
+2025-12-01 21:48:09,611 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:09,612 - utils.logger - INFO - Scraping news for ticker: INFY.NS
+2025-12-01 21:48:11,056 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:11,057 - utils.logger - INFO - Scraping news for ticker: ITC.NS
+2025-12-01 21:48:13,800 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:13,802 - utils.logger - INFO - Scraping news for ticker: JSWSTEEL.NS
+2025-12-01 21:48:15,429 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:15,431 - utils.logger - INFO - Scraping news for ticker: KOTAKBANK.NS
+2025-12-01 21:48:16,860 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:16,862 - utils.logger - INFO - Scraping news for ticker: LT.NS
+2025-12-01 21:48:18,820 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:18,823 - utils.logger - INFO - Scraping news for ticker: M&M.NS
+2025-12-01 21:48:20,938 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:20,940 - utils.logger - INFO - Scraping news for ticker: MARUTI.NS
+2025-12-01 21:48:22,458 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:22,459 - utils.logger - INFO - Scraping news for ticker: NESTLEIND.NS
+2025-12-01 21:48:23,758 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:23,760 - utils.logger - INFO - Scraping news for ticker: NTPC.NS
+2025-12-01 21:48:25,279 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:25,281 - utils.logger - INFO - Scraping news for ticker: ONGC.NS
+2025-12-01 21:48:26,879 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:26,881 - utils.logger - INFO - Scraping news for ticker: POWERGRID.NS
+2025-12-01 21:48:29,409 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:29,411 - utils.logger - INFO - Scraping news for ticker: RELIANCE.NS
+2025-12-01 21:48:31,327 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:31,330 - utils.logger - INFO - Scraping news for ticker: SBILIFE.NS
+2025-12-01 21:48:32,990 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:32,992 - utils.logger - INFO - Scraping news for ticker: SBIN.NS
+2025-12-01 21:48:34,300 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:34,302 - utils.logger - INFO - Scraping news for ticker: SHREECEM.NS
+2025-12-01 21:48:35,749 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:35,752 - utils.logger - INFO - Scraping news for ticker: SHRIRAMFIN.NS
+2025-12-01 21:48:37,120 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:37,123 - utils.logger - INFO - Scraping news for ticker: SUNPHARMA.NS
+2025-12-01 21:48:38,623 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:38,624 - utils.logger - INFO - Scraping news for ticker: TATACONSUM.NS
+2025-12-01 21:48:40,048 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:40,052 - utils.logger - INFO - Scraping news for ticker: TATAMOTORS.NS
+2025-12-01 21:48:41,801 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:41,802 - utils.logger - INFO - Scraping news for ticker: TATASTEEL.NS
+2025-12-01 21:48:43,603 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:43,605 - utils.logger - INFO - Scraping news for ticker: TCS.NS
+2025-12-01 21:48:45,404 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:45,406 - utils.logger - INFO - Scraping news for ticker: TECHM.NS
+2025-12-01 21:48:47,145 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:47,147 - utils.logger - INFO - Scraping news for ticker: TITAN.NS
+2025-12-01 21:48:49,118 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:49,120 - utils.logger - INFO - Scraping news for ticker: ULTRACEMCO.NS
+2025-12-01 21:48:50,537 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:50,540 - utils.logger - INFO - Scraping news for ticker: WIPRO.NS
+2025-12-01 21:48:52,527 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:48:53,940 - utils.logger - INFO - Initialized Ollama Embeddings with model: nomic-embed-text
+2025-12-01 21:48:58,265 - utils.logger - INFO - Documents stored in Chroma.
+2025-12-01 21:48:58,268 - utils.logger - INFO - Marked 49 documents as synced.
+2025-12-01 21:48:58,268 - utils.logger - INFO - Documents processed, stored, and marked as synced.
+2025-12-01 21:48:58,269 - utils.logger - INFO - Scraping completed at 2025-12-01 21:48:58.268994. Next run in 24.00 hours.
+2025-12-01 21:50:16,841 - utils.logger - INFO - ---RETRIEVE---
+2025-12-01 21:50:19,041 - utils.logger - INFO - ---CHECK DOCUMENT RELEVANCE TO THE QUESTION---
+2025-12-01 21:50:27,387 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
+2025-12-01 21:50:27,551 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
+2025-12-01 21:50:27,691 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
+2025-12-01 21:50:27,828 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
+2025-12-01 21:50:27,829 - utils.logger - INFO - ---ASSESS GRADED DOCUMENTS---
+2025-12-01 21:50:27,829 - utils.logger - INFO - ---DECISION: NOT ALL DOCUMENTS ARE RELEVANT TO THE QUESTION, INCLUDE WEB SEARCH---
+2025-12-01 21:50:27,830 - utils.logger - INFO - ---WEB SEARCH---
+2025-12-01 21:50:30,994 - utils.logger - INFO - Saved 3 new articles to MongoDB. Triggering sync...
+2025-12-01 21:50:34,895 - utils.logger - INFO - Documents stored in Chroma.
+2025-12-01 21:50:34,896 - utils.logger - INFO - Marked 3 documents as synced.
+2025-12-01 21:50:34,897 - utils.logger - INFO - Documents processed, stored, and marked as synced.
+2025-12-01 21:50:34,897 - utils.logger - INFO - Sync complete.
+2025-12-01 21:50:34,902 - utils.logger - INFO - ---GENERATE---
+2025-12-01 21:50:41,026 - utils.logger - INFO - ---CHECK HALLUCINATIONS---
+2025-12-01 21:50:41,907 - utils.logger - INFO - ---DECISION: GENERATION IS GROUNDED IN DOCUMENTS---
+2025-12-01 21:51:13,483 - utils.logger - INFO - ---RETRIEVE---
+2025-12-01 21:51:15,634 - utils.logger - INFO - ---CHECK DOCUMENT RELEVANCE TO THE QUESTION---
+2025-12-01 21:51:18,162 - utils.logger - INFO - ---GRADE: DOCUMENT RELEVANT---
+2025-12-01 21:51:18,523 - utils.logger - INFO - ---GRADE: DOCUMENT RELEVANT---
+2025-12-01 21:51:18,903 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
+2025-12-01 21:51:19,084 - utils.logger - INFO - ---GRADE: DOCUMENT NOT RELEVANT---
+2025-12-01 21:51:19,084 - utils.logger - INFO - ---ASSESS GRADED DOCUMENTS---
+2025-12-01 21:51:19,085 - utils.logger - INFO - ---DECISION: NOT ALL DOCUMENTS ARE RELEVANT TO THE QUESTION, INCLUDE WEB SEARCH---
+2025-12-01 21:51:19,086 - utils.logger - INFO - ---WEB SEARCH---
+2025-12-01 21:51:20,385 - utils.logger - INFO - ---GENERATE---
+2025-12-01 21:51:22,947 - utils.logger - INFO - ---CHECK HALLUCINATIONS---
+2025-12-01 21:51:24,210 - utils.logger - INFO - ---DECISION: GENERATION IS GROUNDED IN DOCUMENTS---
+2025-12-01 21:55:29,218 - utils.logger - INFO - Initialized Ollama LLM with model: qwen2.5-coder:7b
+2025-12-01 21:55:29,795 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
+2025-12-01 21:55:31,271 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
+2025-12-01 21:55:33,218 - utils.logger - INFO - Initialized Tavily Search
+2025-12-01 21:55:33,224 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
+2025-12-01 21:55:34,788 - utils.logger - INFO - LangSmith tracing enabled (project=StocksInsights).
+2025-12-01 21:55:34,794 - utils.logger - INFO - Starting scraping at 2025-12-01 21:55:34.794369
+2025-12-01 21:55:34,850 - utils.logger - INFO - PostgreSQL connection established.
+2025-12-01 21:55:34,861 - utils.logger - INFO - Scraping news for ticker: ADANIENT.NS
+2025-12-01 21:55:34,861 - utils.logger - INFO - Scraping data for ADANIENT.NS...
+2025-12-01 21:55:36,468 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:36,470 - utils.logger - INFO - Scraping news for ticker: ADANIPORTS.NS
+2025-12-01 21:55:37,428 - utils.logger - INFO - Data for ADANIENT.NS successfully inserted into the database.
+2025-12-01 21:55:37,428 - utils.logger - INFO - Scraping data for ADANIPORTS.NS...
+2025-12-01 21:55:37,788 - utils.logger - INFO - Data for ADANIPORTS.NS successfully inserted into the database.
+2025-12-01 21:55:37,788 - utils.logger - INFO - Scraping data for APOLLOHOSP.NS...
+2025-12-01 21:55:37,880 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:37,881 - utils.logger - INFO - Scraping news for ticker: APOLLOHOSP.NS
+2025-12-01 21:55:38,170 - utils.logger - INFO - Data for APOLLOHOSP.NS successfully inserted into the database.
+2025-12-01 21:55:38,171 - utils.logger - INFO - Scraping data for ASIANPAINT.NS...
+2025-12-01 21:55:38,546 - utils.logger - INFO - Data for ASIANPAINT.NS successfully inserted into the database.
+2025-12-01 21:55:38,546 - utils.logger - INFO - Scraping data for AXISBANK.NS...
+2025-12-01 21:55:38,929 - utils.logger - INFO - Data for AXISBANK.NS successfully inserted into the database.
+2025-12-01 21:55:38,929 - utils.logger - INFO - Scraping data for BAJAJ-AUTO.NS...
+2025-12-01 21:55:39,225 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:39,226 - utils.logger - INFO - Scraping news for ticker: ASIANPAINT.NS
+2025-12-01 21:55:39,300 - utils.logger - INFO - Data for BAJAJ-AUTO.NS successfully inserted into the database.
+2025-12-01 21:55:39,300 - utils.logger - INFO - Scraping data for BAJFINANCE.NS...
+2025-12-01 21:55:39,676 - utils.logger - INFO - Data for BAJFINANCE.NS successfully inserted into the database.
+2025-12-01 21:55:39,676 - utils.logger - INFO - Scraping data for BAJAJFINSV.NS...
+2025-12-01 21:55:40,124 - utils.logger - INFO - Data for BAJAJFINSV.NS successfully inserted into the database.
+2025-12-01 21:55:40,124 - utils.logger - INFO - Scraping data for BHARTIARTL.NS...
+2025-12-01 21:55:40,484 - utils.logger - INFO - Data for BHARTIARTL.NS successfully inserted into the database.
+2025-12-01 21:55:40,484 - utils.logger - INFO - Scraping data for BPCL.NS...
+2025-12-01 21:55:40,628 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:40,629 - utils.logger - INFO - Scraping news for ticker: AXISBANK.NS
+2025-12-01 21:55:40,905 - utils.logger - INFO - Data for BPCL.NS successfully inserted into the database.
+2025-12-01 21:55:40,905 - utils.logger - INFO - Scraping data for BRITANNIA.NS...
+2025-12-01 21:55:41,280 - utils.logger - INFO - Data for BRITANNIA.NS successfully inserted into the database.
+2025-12-01 21:55:41,280 - utils.logger - INFO - Scraping data for CIPLA.NS...
+2025-12-01 21:55:41,674 - utils.logger - INFO - Data for CIPLA.NS successfully inserted into the database.
+2025-12-01 21:55:41,674 - utils.logger - INFO - Scraping data for COALINDIA.NS...
+2025-12-01 21:55:42,033 - utils.logger - INFO - Data for COALINDIA.NS successfully inserted into the database.
+2025-12-01 21:55:42,033 - utils.logger - INFO - Scraping data for DIVISLAB.NS...
+2025-12-01 21:55:42,251 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:42,252 - utils.logger - INFO - Scraping news for ticker: BAJAJ-AUTO.NS
+2025-12-01 21:55:42,402 - utils.logger - INFO - Data for DIVISLAB.NS successfully inserted into the database.
+2025-12-01 21:55:42,402 - utils.logger - INFO - Scraping data for DRREDDY.NS...
+2025-12-01 21:55:42,762 - utils.logger - INFO - Data for DRREDDY.NS successfully inserted into the database.
+2025-12-01 21:55:42,763 - utils.logger - INFO - Scraping data for EICHERMOT.NS...
+2025-12-01 21:55:43,128 - utils.logger - INFO - Data for EICHERMOT.NS successfully inserted into the database.
+2025-12-01 21:55:43,129 - utils.logger - INFO - Scraping data for GRASIM.NS...
+2025-12-01 21:55:43,525 - utils.logger - INFO - Data for GRASIM.NS successfully inserted into the database.
+2025-12-01 21:55:43,525 - utils.logger - INFO - Scraping data for HCLTECH.NS...
+2025-12-01 21:55:43,903 - utils.logger - INFO - Data for HCLTECH.NS successfully inserted into the database.
+2025-12-01 21:55:43,903 - utils.logger - INFO - Scraping data for HDFCBANK.NS...
+2025-12-01 21:55:44,138 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:44,139 - utils.logger - INFO - Scraping news for ticker: BAJFINANCE.NS
+2025-12-01 21:55:44,284 - utils.logger - INFO - Data for HDFCBANK.NS successfully inserted into the database.
+2025-12-01 21:55:44,285 - utils.logger - INFO - Scraping data for HDFCLIFE.NS...
+2025-12-01 21:55:44,642 - utils.logger - INFO - Data for HDFCLIFE.NS successfully inserted into the database.
+2025-12-01 21:55:44,642 - utils.logger - INFO - Scraping data for HEROMOTOCO.NS...
+2025-12-01 21:55:45,002 - utils.logger - INFO - Data for HEROMOTOCO.NS successfully inserted into the database.
+2025-12-01 21:55:45,002 - utils.logger - INFO - Scraping data for HINDALCO.NS...
+2025-12-01 21:55:45,385 - utils.logger - INFO - Data for HINDALCO.NS successfully inserted into the database.
+2025-12-01 21:55:45,386 - utils.logger - INFO - Scraping data for HINDUNILVR.NS...
+2025-12-01 21:55:45,485 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:45,486 - utils.logger - INFO - Scraping news for ticker: BAJAJFINSV.NS
+2025-12-01 21:55:45,804 - utils.logger - INFO - Data for HINDUNILVR.NS successfully inserted into the database.
+2025-12-01 21:55:45,804 - utils.logger - INFO - Scraping data for ICICIBANK.NS...
+2025-12-01 21:55:46,180 - utils.logger - INFO - Data for ICICIBANK.NS successfully inserted into the database.
+2025-12-01 21:55:46,180 - utils.logger - INFO - Scraping data for INDUSINDBK.NS...
+2025-12-01 21:55:46,559 - utils.logger - INFO - Data for INDUSINDBK.NS successfully inserted into the database.
+2025-12-01 21:55:46,559 - utils.logger - INFO - Scraping data for INFY.NS...
+2025-12-01 21:55:46,776 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:46,777 - utils.logger - INFO - Scraping news for ticker: BHARTIARTL.NS
+2025-12-01 21:55:46,943 - utils.logger - INFO - Data for INFY.NS successfully inserted into the database.
+2025-12-01 21:55:46,944 - utils.logger - INFO - Scraping data for ITC.NS...
+2025-12-01 21:55:47,322 - utils.logger - INFO - Data for ITC.NS successfully inserted into the database.
+2025-12-01 21:55:47,323 - utils.logger - INFO - Scraping data for JSWSTEEL.NS...
+2025-12-01 21:55:47,685 - utils.logger - INFO - Data for JSWSTEEL.NS successfully inserted into the database.
+2025-12-01 21:55:47,685 - utils.logger - INFO - Scraping data for KOTAKBANK.NS...
+2025-12-01 21:55:48,085 - utils.logger - INFO - Data for KOTAKBANK.NS successfully inserted into the database.
+2025-12-01 21:55:48,085 - utils.logger - INFO - Scraping data for LT.NS...
+2025-12-01 21:55:48,171 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:48,172 - utils.logger - INFO - Scraping news for ticker: BPCL.NS
+2025-12-01 21:55:48,474 - utils.logger - INFO - Data for LT.NS successfully inserted into the database.
+2025-12-01 21:55:48,475 - utils.logger - INFO - Scraping data for M&M.NS...
+2025-12-01 21:55:48,867 - utils.logger - INFO - Data for M&M.NS successfully inserted into the database.
+2025-12-01 21:55:48,867 - utils.logger - INFO - Scraping data for MARUTI.NS...
+2025-12-01 21:55:49,238 - utils.logger - INFO - Data for MARUTI.NS successfully inserted into the database.
+2025-12-01 21:55:49,238 - utils.logger - INFO - Scraping data for NESTLEIND.NS...
+2025-12-01 21:55:49,604 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:49,606 - utils.logger - INFO - Scraping news for ticker: BRITANNIA.NS
+2025-12-01 21:55:49,697 - utils.logger - INFO - Data for NESTLEIND.NS successfully inserted into the database.
+2025-12-01 21:55:49,698 - utils.logger - INFO - Scraping data for NTPC.NS...
+2025-12-01 21:55:50,079 - utils.logger - INFO - Data for NTPC.NS successfully inserted into the database.
+2025-12-01 21:55:50,080 - utils.logger - INFO - Scraping data for ONGC.NS...
+2025-12-01 21:55:50,480 - utils.logger - INFO - Data for ONGC.NS successfully inserted into the database.
+2025-12-01 21:55:50,481 - utils.logger - INFO - Scraping data for POWERGRID.NS...
+2025-12-01 21:55:50,840 - utils.logger - INFO - Data for POWERGRID.NS successfully inserted into the database.
+2025-12-01 21:55:50,840 - utils.logger - INFO - Scraping data for RELIANCE.NS...
+2025-12-01 21:55:51,074 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:51,076 - utils.logger - INFO - Scraping news for ticker: CIPLA.NS
+2025-12-01 21:55:51,211 - utils.logger - INFO - Data for RELIANCE.NS successfully inserted into the database.
+2025-12-01 21:55:51,211 - utils.logger - INFO - Scraping data for SBILIFE.NS...
+2025-12-01 21:55:51,558 - utils.logger - INFO - Data for SBILIFE.NS successfully inserted into the database.
+2025-12-01 21:55:51,558 - utils.logger - INFO - Scraping data for SBIN.NS...
+2025-12-01 21:55:51,998 - utils.logger - INFO - Data for SBIN.NS successfully inserted into the database.
+2025-12-01 21:55:51,998 - utils.logger - INFO - Scraping data for SHREECEM.NS...
+2025-12-01 21:55:52,432 - utils.logger - INFO - Data for SHREECEM.NS successfully inserted into the database.
+2025-12-01 21:55:52,432 - utils.logger - INFO - Scraping data for SHRIRAMFIN.NS...
+2025-12-01 21:55:52,612 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:52,614 - utils.logger - INFO - Scraping news for ticker: COALINDIA.NS
+2025-12-01 21:55:52,849 - utils.logger - INFO - Data for SHRIRAMFIN.NS successfully inserted into the database.
+2025-12-01 21:55:52,849 - utils.logger - INFO - Scraping data for SUNPHARMA.NS...
+2025-12-01 21:55:53,263 - utils.logger - INFO - Data for SUNPHARMA.NS successfully inserted into the database.
+2025-12-01 21:55:53,263 - utils.logger - INFO - Scraping data for TATACONSUM.NS...
+2025-12-01 21:55:53,718 - utils.logger - INFO - Data for TATACONSUM.NS successfully inserted into the database.
+2025-12-01 21:55:53,718 - utils.logger - INFO - Scraping data for TATAMOTORS.NS...
+2025-12-01 21:55:54,088 - utils.logger - INFO - Data for TATAMOTORS.NS successfully inserted into the database.
+2025-12-01 21:55:54,089 - utils.logger - INFO - Scraping data for TATASTEEL.NS...
+2025-12-01 21:55:54,421 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:54,422 - utils.logger - INFO - Scraping news for ticker: DIVISLAB.NS
+2025-12-01 21:55:54,466 - utils.logger - INFO - Data for TATASTEEL.NS successfully inserted into the database.
+2025-12-01 21:55:54,466 - utils.logger - INFO - Scraping data for TCS.NS...
+2025-12-01 21:55:54,827 - utils.logger - INFO - Data for TCS.NS successfully inserted into the database.
+2025-12-01 21:55:54,827 - utils.logger - INFO - Scraping data for TECHM.NS...
+2025-12-01 21:55:54,941 - utils.logger - INFO - ---RETRIEVE---
+2025-12-01 21:55:55,181 - utils.logger - INFO - Data for TECHM.NS successfully inserted into the database.
+2025-12-01 21:55:55,181 - utils.logger - INFO - Scraping data for TITAN.NS...
+2025-12-01 21:55:55,552 - utils.logger - INFO - Data for TITAN.NS successfully inserted into the database.
+2025-12-01 21:55:55,552 - utils.logger - INFO - Scraping data for ULTRACEMCO.NS...
+2025-12-01 21:55:55,705 - utils.logger - INFO - Initialized Ollama Embeddings with model: nomic-embed-text
+2025-12-01 21:55:55,753 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:55,755 - utils.logger - INFO - Scraping news for ticker: DRREDDY.NS
+2025-12-01 21:55:55,957 - utils.logger - INFO - Data for ULTRACEMCO.NS successfully inserted into the database.
+2025-12-01 21:55:55,958 - utils.logger - INFO - Scraping data for WIPRO.NS...
+2025-12-01 21:55:56,342 - utils.logger - INFO - Data for WIPRO.NS successfully inserted into the database.
+2025-12-01 21:55:57,164 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:57,166 - utils.logger - INFO - Scraping news for ticker: EICHERMOT.NS
+2025-12-01 21:55:57,947 - utils.logger - INFO - ---CHECK DOCUMENT RELEVANCE TO THE QUESTION---
+2025-12-01 21:55:58,457 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:58,458 - utils.logger - INFO - Scraping news for ticker: GRASIM.NS
+2025-12-01 21:55:59,817 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:55:59,819 - utils.logger - INFO - Scraping news for ticker: HCLTECH.NS
+2025-12-01 21:56:00,406 - utils.logger - INFO - ---GRADE: DOCUMENT RELEVANT---
+2025-12-01 21:56:00,544 - utils.logger - INFO - ---GRADE: DOCUMENT RELEVANT---
+2025-12-01 21:56:00,677 - utils.logger - INFO - ---GRADE: DOCUMENT RELEVANT---
+2025-12-01 21:56:00,812 - utils.logger - INFO - ---GRADE: DOCUMENT RELEVANT---
+2025-12-01 21:56:00,812 - utils.logger - INFO - ---ASSESS GRADED DOCUMENTS---
+2025-12-01 21:56:00,813 - utils.logger - INFO - ---DECISION: GENERATE---
+2025-12-01 21:56:00,814 - utils.logger - INFO - ---GENERATE---
+2025-12-01 21:56:01,254 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:01,255 - utils.logger - INFO - Scraping news for ticker: HDFCBANK.NS
+2025-12-01 21:56:02,951 - utils.logger - INFO - ---CHECK HALLUCINATIONS---
+2025-12-01 21:56:03,121 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:03,122 - utils.logger - INFO - Scraping news for ticker: HDFCLIFE.NS
+2025-12-01 21:56:03,330 - utils.logger - INFO - ---DECISION: GENERATION IS NOT GROUNDED IN DOCUMENTS, RE-TRYING---
+2025-12-01 21:56:04,509 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:04,510 - utils.logger - INFO - Scraping news for ticker: HEROMOTOCO.NS
+2025-12-01 21:56:05,821 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:05,822 - utils.logger - INFO - Scraping news for ticker: HINDALCO.NS
+2025-12-01 21:56:07,198 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:07,199 - utils.logger - INFO - Scraping news for ticker: HINDUNILVR.NS
+2025-12-01 21:56:08,634 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:08,635 - utils.logger - INFO - Scraping news for ticker: ICICIBANK.NS
+2025-12-01 21:56:10,411 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:10,412 - utils.logger - INFO - Scraping news for ticker: INDUSINDBK.NS
+2025-12-01 21:56:11,755 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:11,756 - utils.logger - INFO - Scraping news for ticker: INFY.NS
+2025-12-01 21:56:13,200 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:13,201 - utils.logger - INFO - Scraping news for ticker: ITC.NS
+2025-12-01 21:56:15,037 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:15,038 - utils.logger - INFO - Scraping news for ticker: JSWSTEEL.NS
+2025-12-01 21:56:16,458 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:16,459 - utils.logger - INFO - Scraping news for ticker: KOTAKBANK.NS
+2025-12-01 21:56:17,892 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:17,893 - utils.logger - INFO - Scraping news for ticker: LT.NS
+2025-12-01 21:56:20,273 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:20,275 - utils.logger - INFO - Scraping news for ticker: M&M.NS
+2025-12-01 21:56:22,509 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:22,510 - utils.logger - INFO - Scraping news for ticker: MARUTI.NS
+2025-12-01 21:56:23,285 - utils.logger - INFO - ---RETRIEVE---
+2025-12-01 21:56:24,161 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:24,162 - utils.logger - INFO - Scraping news for ticker: NESTLEIND.NS
+2025-12-01 21:56:25,460 - utils.logger - INFO - ---CHECK DOCUMENT RELEVANCE TO THE QUESTION---
+2025-12-01 21:56:25,534 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:25,536 - utils.logger - INFO - Scraping news for ticker: NTPC.NS
+2025-12-01 21:56:27,208 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:27,210 - utils.logger - INFO - Scraping news for ticker: ONGC.NS
+2025-12-01 21:56:27,993 - utils.logger - INFO - ---GRADE: DOCUMENT RELEVANT---
+2025-12-01 21:56:28,144 - utils.logger - INFO - ---GRADE: DOCUMENT RELEVANT---
+2025-12-01 21:56:28,292 - utils.logger - INFO - ---GRADE: DOCUMENT RELEVANT---
+2025-12-01 21:56:28,441 - utils.logger - INFO - ---GRADE: DOCUMENT RELEVANT---
+2025-12-01 21:56:28,442 - utils.logger - INFO - ---ASSESS GRADED DOCUMENTS---
+2025-12-01 21:56:28,442 - utils.logger - INFO - ---DECISION: GENERATE---
+2025-12-01 21:56:28,444 - utils.logger - INFO - ---GENERATE---
+2025-12-01 21:56:28,686 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:28,688 - utils.logger - INFO - Scraping news for ticker: POWERGRID.NS
+2025-12-01 21:56:30,308 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:30,310 - utils.logger - INFO - Scraping news for ticker: RELIANCE.NS
+2025-12-01 21:56:30,603 - utils.logger - INFO - ---CHECK HALLUCINATIONS---
+2025-12-01 21:56:31,001 - utils.logger - INFO - ---DECISION: GENERATION IS NOT GROUNDED IN DOCUMENTS, RE-TRYING---
+2025-12-01 21:56:32,428 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:32,430 - utils.logger - INFO - Scraping news for ticker: SBILIFE.NS
+2025-12-01 21:56:33,768 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:33,769 - utils.logger - INFO - Scraping news for ticker: SBIN.NS
+2025-12-01 21:56:35,135 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:35,137 - utils.logger - INFO - Scraping news for ticker: SHREECEM.NS
+2025-12-01 21:56:36,456 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:36,459 - utils.logger - INFO - Scraping news for ticker: SHRIRAMFIN.NS
+2025-12-01 21:56:37,791 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:37,794 - utils.logger - INFO - Scraping news for ticker: SUNPHARMA.NS
+2025-12-01 21:56:39,386 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:39,388 - utils.logger - INFO - Scraping news for ticker: TATACONSUM.NS
+2025-12-01 21:56:40,723 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:40,724 - utils.logger - INFO - Scraping news for ticker: TATAMOTORS.NS
+2025-12-01 21:56:42,450 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:42,452 - utils.logger - INFO - Scraping news for ticker: TATASTEEL.NS
+2025-12-01 21:56:44,143 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:44,144 - utils.logger - INFO - Scraping news for ticker: TCS.NS
+2025-12-01 21:56:46,048 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:46,049 - utils.logger - INFO - Scraping news for ticker: TECHM.NS
+2025-12-01 21:56:47,769 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:47,771 - utils.logger - INFO - Scraping news for ticker: TITAN.NS
+2025-12-01 21:56:49,598 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:49,600 - utils.logger - INFO - Scraping news for ticker: ULTRACEMCO.NS
+2025-12-01 21:56:50,959 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:50,961 - utils.logger - INFO - Scraping news for ticker: WIPRO.NS
+2025-12-01 21:56:52,803 - utils.logger - INFO - Inserted 1 articles into MongoDB.
+2025-12-01 21:56:56,318 - utils.logger - INFO - Documents stored in Chroma.
+2025-12-01 21:56:56,320 - utils.logger - INFO - Marked 50 documents as synced.
+2025-12-01 21:56:56,320 - utils.logger - INFO - Documents processed, stored, and marked as synced.
+2025-12-01 21:56:56,320 - utils.logger - INFO - Scraping completed at 2025-12-01 21:56:56.320861. Next run in 24.00 hours.

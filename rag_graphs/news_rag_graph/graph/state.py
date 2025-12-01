@@ -14,3 +14,6 @@ class GraphState(TypedDict):
     generation: str
     web_seach: bool
     documents: List[str]
+    grounded: bool
+    ticker: str
+    web_search_performed: bool

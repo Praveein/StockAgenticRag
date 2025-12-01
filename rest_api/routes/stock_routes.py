@@ -41,6 +41,28 @@ def price_stats(
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
+@router.get("/{ticker}/history")
+def stock_history(
+    ticker: str,
+    duration: str = Query(..., description="Duration (days): '7', '14', '30', '90'"),
+):
+    """
+    Get raw historical stock data.
+    """
+    try:
+        human_query = f"Select date, open, high, low, close, volume for '{ticker}' for the last {duration} days order by date desc"
+        
+        # Use stock_charts_graph as it returns raw SQL results without LLM summarization
+        res = stock_charts_graph.invoke({"question": human_query})
+        df = res.get('sql_results')
+        
+        if hasattr(df, 'to_dict'):
+            return df.to_dict(orient='records')
+        return df
+        
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
 @router.get("/{ticker}/chart")
 def chart(
     ticker: str,
